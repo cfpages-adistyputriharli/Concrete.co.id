@@ -3,7 +3,7 @@ article_id: CON-02-05
 title: "Bahan Tambah Beton: Mulai dari Masalah yang Ingin Dipecahkan"
 slug: "memilih-bahan-tambah-beton"
 description: "Understand how cementitious materials, aggregate, water, admixtures, and proportions affect concrete"
-status: outline
+status: draft
 publication_date: "2026-01-18"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -23,37 +23,7 @@ sources:
   - "https://www.iso.org/standard/72390.html"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
-# Bahan Tambah Beton: Mulai dari Masalah yang Ingin Dipecahkan
-
-## Assignment lock
-
-- **Writer task:** Expand this file into one complete article answering: “Bahan Tambah Beton: Mulai dari Masalah yang Ingin Dipecahkan”
-- **Reader and situation:** Understand how cementitious materials, aggregate, water, admixtures, and proportions affect concrete
-- **Reader outcome:** Understand how cementitious materials, aggregate, water, admixtures, and proportions affect concrete
-- **Primary intent:** Decision
-- **Reader community:** `Concrete.co.id`
-- **Primary friendly address:** `Kawan Concrete.co.id`
-- **Natural variants:** `Sobat Concrete.co.id` and `Teman Concrete.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Function-first comparison; exact product compatibility stays gated
-- **Final public route:** `/artikel/memilih-bahan-tambah-beton.html`
-- **Appointed CMS date:** `2026-01-18` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
-
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Kawan Concrete.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Bahan Tambah Beton: Mulai dari Masalah yang Ingin Dipecahkan**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Kawan Concrete.co.id`, `Sobat Concrete.co.id`, or `Teman Concrete.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-008`
@@ -64,139 +34,88 @@ sources:
 - **Selection basis:** filename/source metadata identifies `Beton Biasa` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-008]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+# Bahan Tambah Beton: Mulai dari Masalah yang Ingin Dipecahkan
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Halo, Kawan Concrete.co.id! Bahan tambah bukan jawaban yang dipilih dari nama produk atau janji “lebih kuat”. Mulailah dari masalah yang benar-benar ingin dikendalikan: campuran sulit dikerjakan, waktu pengerasan tidak sesuai urutan pengecoran, kebutuhan ketahanan pada lingkungan tertentu, atau hasil produksi yang tidak konsisten. Setelah masalahnya jelas, barulah fungsi bahan tambah, data bahan penyusun, dan cara verifikasinya dapat dibahas secara masuk akal.
 
-### KR-02
+Satu campuran juga tidak boleh dinilai dari satu label kuat tekan saja. Spesifikasi beton mencakup antara lain penggunaan, bahan penyusun, perilaku beton segar dan mengeras, cara produksi, pertukaran informasi, serta bukti penerimaan; itu terlihat dari ruang lingkup [ISO 22965-1](https://www.iso.org/standard/41260.html) dan catatan [SNI 6880:2016](https://pesta.bsn.go.id/produk/detail/10771-sni68802016). Karena itu, kecocokan produk bahan tambah tetap harus ditetapkan melalui data produk, bahan aktual, trial mix, dan persetujuan proyek.
 
-- **Original sources:** [ISO 22965-1:2007 concrete specification](https://www.iso.org/standard/41260.html), [SNI 6880:2016 structural concrete specification record](https://pesta.bsn.go.id/produk/detail/10771-sni68802016).
-- **Purpose for this article:** Ground specification, supplier information exchange, and the distinction between shorthand strength labels and a complete requirement.
-- **Safe grounded facts:** Application, constituent requirements, fresh and hardened performance, production route, information exchange, local conditions, and acceptance evidence are separate specification inputs.
-- **Limits:** Obtain the current full governing SNI/contract documents before quoting clauses, categories, tolerances, test frequencies, or acceptance criteria.
+![Ilustrasi Beton Biasa](/wp-content/uploads/2024/04/Beton-Biasa.jpg)
 
-### KR-04
-
-- **Original sources:** [ISO 22965-2:2007 production and compliance catalogue](https://www.iso.org/committee/49906/x/catalogue/), [BSN concrete and concrete-product catalogue](https://pesta.bsn.go.id/produk/by_ics/21?ics_no=91&key=).
-- **Purpose for this article:** Ground constituent roles, mix design, trial mix, batching, production, and evidence chains.
-- **Safe grounded facts:** A proposed mix, trial result, batch record, fresh test, specimen result, and the condition of the installed concrete are different evidence.
-- **Limits:** No universal recipe, water-binder ratio, workability, strength development, curing duration, or compliance claim without exact materials and governing project evidence.
-
-### KR-05
-
-- **Original sources:** [SNI 7974:2018 mixing-water specification record](https://pesta.bsn.go.id/produk/detail/13897-sni79742018), [ISO 22965-1:2007 scope](https://www.iso.org/standard/41260.html).
-- **Purpose for this article:** Ground articles about mixing water, field water addition, and information exchange.
-- **Safe grounded facts:** Water source, intended use, test evidence, batch identity, authorized adjustment, and curing-water compatibility are separate questions.
-- **Limits:** Obtain the full applicable standard, supplier procedure, project specification, and actual water evidence before stating limits or authorizing an addition.
-
-### KR-12
-
-- **Original sources:** [ISO 16204:2012 service-life design](https://www.iso.org/standard/55862.html), [ISO 22040:2021 concrete-structure lifecycle management](https://www.iso.org/standard/72390.html).
-- **Purpose for this article:** Ground durability, service-life, inspection, maintenance, and lifecycle planning.
-- **Safe grounded facts:** Exposure, design assumptions, material/production evidence, construction records, inspection baseline, deterioration mechanism, maintenance action, and actual performance are distinct.
-- **Limits:** No universal service life, maintenance interval, corrosion threshold, or durability result without the structure's environment, condition, full criteria, and competent review.
-
-## Evidence gates
-
-- **GATE-01:** Obtain the current licensed full standard and project specification before quoting exact clauses, classifications, formulae, tolerances, test conditions, or acceptance limits.
-- **GATE-04:** Obtain exact constituent, batch, product/system, TDS/SDS, supplier, and installed-condition evidence.
-- **GATE-05:** Obtain the governing sampling/test/inspection method, laboratory scope, project criteria, and original traceable results.
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/beton-precast` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/jasa/coring-beton` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/beton-precast/u-ditch` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/beton-precast/tiang-pancang` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/beton-precast/tiang-listrik` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/beton-precast/sheet-pile` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `CON-02-03` → `/artikel/memilih-agregat-untuk-beton.html` — Agregat Beton: Gradasi, Kebersihan, Kelembapan, dan Dampaknya pada Campuran
-- `CON-02-04` → `/artikel/air-untuk-campuran-dan-curing-beton.html` — Air untuk Campuran dan Perawatan Beton: Apa yang Perlu Diverifikasi?
-- `CON-02-06` → `/artikel/trial-mix-dan-mix-design-beton.html` — Trial Mix dan Mix Design: Bukti Apa yang Harus Dibawa ke Produksi?
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+_Aset lokal proyek._
 
 ## Mulai dari gejala, bukan tebakan penyebab
 
-- **Purpose:** Tentukan apa yang terlihat/terukur, lokasi, waktu, perubahan, dan keterbatasan pengamatan.
-- **Tie back to this article:** Keep the explanation specific to “Bahan Tambah Beton: Mulai dari Masalah yang Ingin Dipecahkan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Sebelum mencari bahan tambah, tuliskan gejalanya dengan bahasa yang dapat diperiksa. Apakah adukan terasa cepat kehilangan kemudahan kerja sebelum dipasang? Apakah pemadatan menjadi sulit pada titik tertentu? Apakah jadwal pengangkutan, pengecoran, atau pembongkaran bekisting yang menjadi persoalan? Catat kapan gejala muncul, pada elemen mana, dan apa yang berubah dibanding batch atau pekerjaan sebelumnya.
+
+Pembedaan ini penting karena satu gejala dapat memiliki lebih dari satu penjelasan. Kesulitan pengerjaan, misalnya, tidak otomatis berarti perlu menambah air atau memilih admixture tertentu. Kondisi agregat, air, urutan penakaran, waktu tunggu, suhu, kebersihan alat, dan perubahan bahan pengikat dapat ikut memengaruhi campuran. Catatan produksi dan identitas batch membantu memisahkan dugaan dari fakta; katalog ISO untuk produksi dan kesesuaian beton memang membedakan informasi produksi dari bukti hasilnya ([ISO catalogue](https://www.iso.org/committee/49906/x/catalogue/)).
+
+Gunakan pertanyaan sederhana ini: “Masalah apa yang terlihat, kapan muncul, dan bukti apa yang sudah ada?” Bila jawabannya baru “betonnya kurang bagus”, jangan lompat ke pembelian bahan tambah. Rumusan yang lebih berguna adalah, misalnya, “kemudahan kerja berubah setelah jeda tertentu, sementara komposisi dan sumber bahan perlu diperiksa.”
 
 ## Saringan risiko langsung
 
-- **Purpose:** Jelaskan kapan pembaca harus membatasi akses, menghentikan pekerjaan, atau meminta pemeriksaan kompeten.
-- **Tie back to this article:** Keep the explanation specific to “Bahan Tambah Beton: Mulai dari Masalah yang Ingin Dipecahkan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Ada keadaan ketika diskusi bahan tambah harus berhenti lebih dulu karena keselamatan dan mutu struktur lebih mendesak. Batasi akses dan minta pemeriksaan kompeten bila terlihat kerusakan yang berkembang, deformasi yang tidak biasa, bagian beton yang berisiko lepas, atau ada perubahan kondisi struktur yang tidak dipahami. Jangan menggunakan bahan tambah sebagai upaya menutup kondisi terpasang yang belum dinilai.
+
+Sobat Concrete.co.id, penambahan air di lapangan juga bukan tindakan netral. Sumber air, tujuan penggunaan, bukti pengujian, identitas batch, serta otorisasi penyesuaian adalah pertanyaan berbeda. [SNI 7974:2018](https://pesta.bsn.go.id/produk/detail/13897-sni79742018) adalah rekaman spesifikasi air pencampur; angka batas atau izin penambahan untuk suatu proyek tetap harus merujuk dokumen lengkap yang berlaku, prosedur pemasok, dan bukti air aktual.
+
+Hentikan keputusan di lapangan bila perubahan yang diusulkan tidak memiliki penanggung jawab, identitas batch, atau catatan dampaknya. Untuk pekerjaan yang sudah terpasang dan perlu dipahami kondisinya, pemeriksaan oleh pihak kompeten dapat menentukan apakah pengamatan awal cukup atau pengujian lanjutan—termasuk layanan [coring beton](/jasa/coring-beton) bila memang dipilih dalam rencana pemeriksaan—diperlukan.
 
 ## Kemungkinan mekanisme
 
-- **Purpose:** Kelompokkan kemungkinan penyebab tanpa menyatakan diagnosis dari bukti yang belum cukup.
-- **Tie back to this article:** Keep the explanation specific to “Bahan Tambah Beton: Mulai dari Masalah yang Ingin Dipecahkan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Bahan tambah bekerja sebagai bagian dari sistem campuran, bukan pengganti pemeriksaan sistem itu. Secara fungsi, pembaca dapat mengelompokkan kebutuhan menjadi: menjaga kemudahan kerja, mengatur waktu proses, mengurangi kebutuhan penyesuaian tertentu, atau membantu memenuhi sasaran performa yang sudah ditentukan. Kelompok fungsi tersebut belum merupakan diagnosis dan belum menyatakan bahwa satu produk pasti cocok.
+
+Periksa juga peran bahan lain. Bahan pengikat dan bahan sementisius berkaitan dengan rancangan campuran; agregat membawa persoalan gradasi, kebersihan, dan kadar air; air perlu ditelusuri sumber serta penggunaannya; sedangkan proporsi menentukan bagaimana semua komponen bertemu dalam produksi. Usulan campuran, hasil trial, rekaman batch, pengujian beton segar, hasil benda uji, dan kondisi beton terpasang adalah bukti yang berlainan, sebagaimana konteks produksi/kesesuaian dalam [ISO 22965](https://www.iso.org/committee/49906/x/catalogue/) dan katalog [BSN untuk beton dan produk beton](https://pesta.bsn.go.id/produk/by_ics/21?ics_no=91&key=).
+
+Contohnya, target mempertahankan kemudahan kerja tidak sama dengan target memperpanjang jadwal pengecoran, dan keduanya tidak membuktikan ketahanan jangka panjang. Kawan Concrete.co.id perlu meminta mekanisme yang hendak diuji, bukan sekadar nama kategori bahan tambah. [NEEDS TECHNICAL REVIEW: kecocokan bahan tambah dengan semen, agregat, air, dosis, TDS/SDS, kondisi produksi, dan spesifikasi proyek belum dapat ditetapkan tanpa bukti GATE-04.]
 
 ## Urutan pemeriksaan dan pengujian
 
-- **Purpose:** Susun observasi, dokumen, tes, sampel, atau pengukuran dari yang paling aman dan informatif.
-- **Tie back to this article:** Keep the explanation specific to “Bahan Tambah Beton: Mulai dari Masalah yang Ingin Dipecahkan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Mulai dari bukti yang paling dekat dengan pekerjaan dan paling aman dikumpulkan:
+
+1. Catat gejala, waktu, lokasi, volume pekerjaan, dan batas pengamatan.
+2. Kumpulkan dokumen bahan: identitas pemasok, data produk yang berlaku, catatan penerimaan, sumber air, serta perubahan bahan atau prosedur.
+3. Cocokkan identitas batch, catatan penakaran, waktu produksi, pengiriman, dan penyesuaian yang diizinkan.
+4. Tentukan apakah perlu pengamatan beton segar, sampel, atau pengujian lain menurut metode dan kriteria proyek.
+5. Bandingkan hasil dengan kriteria yang memang berlaku, lalu dokumentasikan siapa yang berwenang mengambil keputusan.
+
+Urutan itu mencegah hasil uji dibaca tanpa konteks. ISO menempatkan pertukaran informasi dan bukti penerimaan sebagai bagian terpisah dari spesifikasi beton ([ISO 22965-1](https://www.iso.org/standard/41260.html)); jadi satu hasil tidak menggantikan seluruh rantai bukti. Jika pemeriksaan menyentuh struktur yang sudah digunakan, rencana pemeriksaan sebaiknya juga mempertimbangkan paparan, riwayat, dan kondisi aktual.
+
+Untuk sasaran ketahanan, jangan memperlakukan bahan tambah sebagai garansi umur layan. [ISO 16204](https://www.iso.org/standard/55862.html) membahas desain umur layan, sedangkan [ISO 22040](https://www.iso.org/standard/72390.html) membahas manajemen siklus hidup struktur beton. Keduanya selaras dengan kebutuhan untuk membedakan asumsi desain, rekaman bahan/produksi, inspeksi, mekanisme deteriorasi, dan performa aktual. [NEEDS REVIEW: metode sampling, laboratorium, kriteria proyek, dan hasil telusur asli sesuai GATE-05.]
 
 ## Cara membaca hasil tanpa melompat ke kesimpulan
 
-- **Purpose:** Pisahkan hasil tes, kriteria proyek, sebab, konsekuensi, dan otoritas keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Bahan Tambah Beton: Mulai dari Masalah yang Ingin Dipecahkan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Hasil pengujian menjawab pertanyaan yang dibatasi oleh metode, sampel, waktu, dan kriteria penerimaannya. Hasil itu tidak dengan sendirinya membuktikan penyebab tunggal atau menentukan tindakan untuk semua bagian pekerjaan. Pisahkan lima hal berikut: apa yang diuji, apa kriteria proyeknya, apa kemungkinan penyebabnya, apa konsekuensinya, dan siapa yang berwenang menyetujui tindakan.
+
+Misalnya, trial mix yang menunjukkan perilaku tertentu adalah bukti untuk bahan dan kondisi trial tersebut. Ia belum sama dengan bukti bahwa seluruh produksi akan serupa. Demikian pula, catatan batch tidak membuktikan kondisi elemen yang sudah terpasang. Teman Concrete.co.id dapat meminta rantai bukti itu tersambung: bahan apa, batch mana, penyesuaian apa yang diizinkan, tes apa yang dilakukan, dan kriteria mana yang dipakai.
+
+Jika targetnya produk pracetak, kebutuhan prosesnya dapat berbeda dari pekerjaan cor di tempat. Lihat konteks produk pada halaman [beton precast](/beton-precast) untuk memahami jenis keluaran yang dibahas, tetapi tetap jangan memindahkan asumsi mutu atau komposisi dari satu produk ke pekerjaan lain tanpa dokumen teknisnya.
 
 ## Pilihan tindakan dan titik eskalasi
 
-- **Purpose:** Bedakan kontrol sementara, pemantauan, perbaikan, penggantian, dan review profesional.
-- **Tie back to this article:** Keep the explanation specific to “Bahan Tambah Beton: Mulai dari Masalah yang Ingin Dipecahkan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Tindakan sementara yang aman biasanya berupa menghentikan perubahan tidak terdokumentasi, menandai batch terkait, menjaga catatan, dan meminta arahan pihak yang berwenang. Pemantauan dapat dipilih bila risikonya telah dinilai dan kriteria pemantauannya jelas. Perbaikan atau penggantian tidak boleh dipilih hanya karena satu dugaan tentang bahan tambah; keduanya memerlukan dasar teknis dan otorisasi yang sesuai.
 
-## Objection or shortcut to address
+Eskalasi diperlukan ketika gejala menyangkut keselamatan, mutu terima, perbedaan dari spesifikasi, ketidakjelasan bahan, atau ketidaksesuaian hasil yang berpotensi memengaruhi fungsi struktur. Bawalah paket yang ringkas tetapi telusur: foto/keterangan kondisi bila tersedia, waktu dan lokasi, identitas batch, dokumen bahan, riwayat penyesuaian, hasil pengamatan atau pengujian, serta pertanyaan keputusan yang spesifik.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+Jangan membeli bahan tambah sebagai “penyembuh universal”
 
-## Required conclusion
+Jalan pintas yang sering muncul adalah memilih bahan tambah setelah melihat satu masalah lalu menaikkan dosis atau menambah air sampai campuran terasa lebih mudah dikerjakan. Cara ini dapat gagal karena masalah awal mungkin berkaitan dengan bahan, urutan kerja, atau kondisi produksi yang berbeda; perubahan tanpa data juga memutus kemampuan untuk menelusuri apa yang sebenarnya terjadi.
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+Alternatif yang lebih andal adalah menetapkan masalah, membekukan perubahan tidak sah, lalu menguji opsi yang disetujui pada kondisi yang terdokumentasi. Minta TDS/SDS produk, data bahan penyusun, rancangan dan hasil trial yang relevan, prosedur pemasok, serta kriteria proyek. Tidak ada resep universal untuk dosis, rasio air-bahan pengikat, waktu pengerjaan, atau hasil ketahanan.
 
-## Draft completion checklist
+## Mulai dengan pertanyaan yang dapat dibuktikan
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Kawan Concrete.co.id!` and uses friendly `Concrete.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Bahan tambah beton dipilih dari masalah yang ingin dipecahkan, lalu dibuktikan pada campuran dan kondisi proyek yang nyata—bukan dari label produk atau perubahan spontan di lapangan. Langkah berikutnya: tulis gejala dan tujuan prosesnya, kumpulkan identitas bahan serta batch, kemudian ajukan satu pertanyaan keputusan kepada perancang, pemasok, atau pengawas yang berwenang.
+
+Aturan operasinya sederhana, Kawan Concrete.co.id: jangan ubah sistem campuran sampai fungsi yang dituju, bukti bahan, metode pemeriksaan, dan otoritas persetujuannya jelas. [NEEDS TECHNICAL REVIEW: persetujuan akhir produk dan perubahan campuran harus mengikuti spesifikasi proyek serta dokumen teknis yang berlaku.]
+
+<!-- Citation ledger (editorial, not public bibliography)
+- ISO 22965-1:2007 concrete specification: https://www.iso.org/standard/41260.html — specification inputs, information exchange, acceptance context.
+- SNI 6880:2016 record: https://pesta.bsn.go.id/produk/detail/10771-sni68802016 — Indonesian structural-concrete specification identity/context.
+- ISO 22965 production/compliance catalogue: https://www.iso.org/committee/49906/x/catalogue/ — production and evidence-chain context.
+- BSN concrete/product catalogue: https://pesta.bsn.go.id/produk/by_ics/21?ics_no=91&key= — Indonesian catalogue context.
+- SNI 7974:2018 record: https://pesta.bsn.go.id/produk/detail/13897-sni79742018 — mixing-water specification identity/context.
+- ISO 16204:2012: https://www.iso.org/standard/55862.html — service-life design context.
+- ISO 22040:2021: https://www.iso.org/standard/72390.html — lifecycle-management context.
+-->

@@ -3,7 +3,7 @@ article_id: CON-02-03
 title: "Agregat Beton: Gradasi, Kebersihan, Kelembapan, dan Dampaknya pada Campuran"
 slug: "memilih-agregat-untuk-beton"
 description: "Understand how cementitious materials, aggregate, water, admixtures, and proportions affect concrete"
-status: outline
+status: draft
 publication_date: "2026-01-11"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -23,39 +23,7 @@ sources:
   - "https://www.iso.org/standard/72390.html"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
-# Agregat Beton: Gradasi, Kebersihan, Kelembapan, dan Dampaknya pada Campuran
-
-## Assignment lock
-
-- **Writer task:** Expand this file into one complete article answering: “Agregat Beton: Gradasi, Kebersihan, Kelembapan, dan Dampaknya pada Campuran”
-- **Reader and situation:** Understand how cementitious materials, aggregate, water, admixtures, and proportions affect concrete
-- **Reader outcome:** Understand how cementitious materials, aggregate, water, admixtures, and proportions affect concrete
-- **Primary intent:** Decision
-- **Reader community:** `Concrete.co.id`
-- **Primary friendly address:** `Sobat Concrete.co.id`
-- **Natural variants:** `Kawan Concrete.co.id` and `Teman Concrete.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Selection evidence only; no quarry or source approval
-- **Final public route:** `/artikel/memilih-agregat-untuk-beton.html`
-- **Appointed CMS date:** `2026-01-11` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
-
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Sobat Concrete.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Agregat Beton: Gradasi, Kebersihan, Kelembapan, dan Dampaknya pada Campuran**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Sobat Concrete.co.id`, `Kawan Concrete.co.id`, or `Teman Concrete.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
-## Image plan
-
+<!-- BEGIN MANAGED IMAGE PLAN
 - **Image ID:** `LOCAL-007`
 - **Source type:** `local`
 - **Placement:** after the opening has answered the main question, before the first detailed H2
@@ -64,140 +32,81 @@ sources:
 - **Selection basis:** filename/source metadata identifies `Agregat Beton` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-007]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+# Agregat Beton: Gradasi, Kebersihan, Kelembapan, dan Dampaknya pada Campuran
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Halo, Sobat Concrete.co.id! Agregat tidak cukup dipilih karena tampak bersih atau karena ukuran batunya terasa “pas” di tangan. Untuk campuran tertentu, keputusan yang lebih aman adalah memeriksa apakah gradasi, kebersihan, dan kondisi kelembapannya cocok dengan rancangan campuran, cara produksi, serta kebutuhan elemen yang akan dicor.
 
-### KR-02
+Jawaban singkatnya: pilih agregat dari data yang dapat ditelusuri, lalu nilai sebagai bagian dari satu sistem campuran. Perubahan gradasi dapat mengubah susunan butir; material pengotor dapat mengubah kondisi bahan yang masuk ke campuran; dan kelembapan dapat mengubah air yang benar-benar ikut terbawa. Karena itu, nama mutu beton atau kekuatan rencana saja bukan instruksi lengkap untuk memilih agregat. Spesifikasi beton juga mencakup persyaratan bahan penyusun, kinerja beton segar dan mengeras, jalur produksi, serta pertukaran informasi dan bukti penerimaan ([ISO 22965-1](https://www.iso.org/standard/41260.html); [rekaman SNI 6880:2016](https://pesta.bsn.go.id/produk/detail/10771-sni68802016)).
 
-- **Original sources:** [ISO 22965-1:2007 concrete specification](https://www.iso.org/standard/41260.html), [SNI 6880:2016 structural concrete specification record](https://pesta.bsn.go.id/produk/detail/10771-sni68802016).
-- **Purpose for this article:** Ground specification, supplier information exchange, and the distinction between shorthand strength labels and a complete requirement.
-- **Safe grounded facts:** Application, constituent requirements, fresh and hardened performance, production route, information exchange, local conditions, and acceptance evidence are separate specification inputs.
-- **Limits:** Obtain the current full governing SNI/contract documents before quoting clauses, categories, tolerances, test frequencies, or acceptance criteria.
+![Ilustrasi Agregat Beton](/wp-content/uploads/2024/04/Agregat-Beton.jpg)
 
-### KR-04
-
-- **Original sources:** [ISO 22965-2:2007 production and compliance catalogue](https://www.iso.org/committee/49906/x/catalogue/), [BSN concrete and concrete-product catalogue](https://pesta.bsn.go.id/produk/by_ics/21?ics_no=91&key=).
-- **Purpose for this article:** Ground constituent roles, mix design, trial mix, batching, production, and evidence chains.
-- **Safe grounded facts:** A proposed mix, trial result, batch record, fresh test, specimen result, and the condition of the installed concrete are different evidence.
-- **Limits:** No universal recipe, water-binder ratio, workability, strength development, curing duration, or compliance claim without exact materials and governing project evidence.
-
-### KR-05
-
-- **Original sources:** [SNI 7974:2018 mixing-water specification record](https://pesta.bsn.go.id/produk/detail/13897-sni79742018), [ISO 22965-1:2007 scope](https://www.iso.org/standard/41260.html).
-- **Purpose for this article:** Ground articles about mixing water, field water addition, and information exchange.
-- **Safe grounded facts:** Water source, intended use, test evidence, batch identity, authorized adjustment, and curing-water compatibility are separate questions.
-- **Limits:** Obtain the full applicable standard, supplier procedure, project specification, and actual water evidence before stating limits or authorizing an addition.
-
-### KR-12
-
-- **Original sources:** [ISO 16204:2012 service-life design](https://www.iso.org/standard/55862.html), [ISO 22040:2021 concrete-structure lifecycle management](https://www.iso.org/standard/72390.html).
-- **Purpose for this article:** Ground durability, service-life, inspection, maintenance, and lifecycle planning.
-- **Safe grounded facts:** Exposure, design assumptions, material/production evidence, construction records, inspection baseline, deterioration mechanism, maintenance action, and actual performance are distinct.
-- **Limits:** No universal service life, maintenance interval, corrosion threshold, or durability result without the structure's environment, condition, full criteria, and competent review.
-
-## Evidence gates
-
-- **GATE-01:** Obtain the current licensed full standard and project specification before quoting exact clauses, classifications, formulae, tolerances, test conditions, or acceptance limits.
-- **GATE-04:** Obtain exact constituent, batch, product/system, TDS/SDS, supplier, and installed-condition evidence.
-- **GATE-05:** Obtain the governing sampling/test/inspection method, laboratory scope, project criteria, and original traceable results.
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/campuran` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/beton-precast` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/agregat` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/jasa/coring-beton` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/beton-precast/u-ditch` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/beton-precast/tiang-pancang` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `CON-02-01` → `/artikel/bahan-penyusun-beton-dan-fungsinya.html` — Peran Semen, Material Sementisius, Agregat, Air, dan Bahan Tambah dalam Beton
-- `CON-02-02` → `/artikel/rasio-air-pengikat-beton.html` — Rasio Air-Pengikat: Mengapa Menambah Air di Lapangan Bukan Solusi Sederhana
-- `CON-02-04` → `/artikel/air-untuk-campuran-dan-curing-beton.html` — Air untuk Campuran dan Perawatan Beton: Apa yang Perlu Diverifikasi?
-- `CON-02-05` → `/artikel/memilih-bahan-tambah-beton.html` — Bahan Tambah Beton: Mulai dari Masalah yang Ingin Dipecahkan
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+_Aset lokal proyek._
 
 ## Jawaban singkat dan salah paham utama
 
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Agregat Beton: Gradasi, Kebersihan, Kelembapan, dan Dampaknya pada Campuran”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Salah paham yang mahal ialah menganggap agregat hanya “isi” beton sehingga boleh berubah selama volumenya tampak sama. Dalam praktik keputusan, agregat membawa tiga pertanyaan yang saling terkait: apakah distribusi ukuran butirnya sesuai kebutuhan campuran, apakah kondisinya cukup bersih untuk dinilai sesuai persyaratan, dan berapa air yang terbawa saat ditakar.
+
+Ketiganya tidak dapat diputuskan dari pengamatan sesaat. Campuran usulan, hasil *trial mix* (campuran percobaan), catatan penakaran, pemeriksaan beton segar, hasil benda uji, dan kondisi beton terpasang adalah bukti yang berbeda. Satu bukti tidak otomatis menggantikan bukti lainnya ([katalog ISO untuk produksi dan kesesuaian](https://www.iso.org/committee/49906/x/catalogue/); [katalog BSN untuk beton dan produk beton](https://pesta.bsn.go.id/produk/by_ics/21?ics_no=91&key=)).
+
+Jadi, pertanyaan awal yang lebih berguna bukan “agregat ini bagus atau tidak?”, melainkan: “untuk campuran, batch, dan penggunaan apa data agregat ini berlaku?” Kawan Concrete.co.id, pertanyaan itu membantu mencegah keputusan berdasarkan kebiasaan pemasok atau satu sampel yang kebetulan terlihat baik.
 
 ## Definisi dan batas objek
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Agregat Beton: Gradasi, Kebersihan, Kelembapan, dan Dampaknya pada Campuran”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Artikel ini membahas agregat sebagai bahan penyusun yang perlu dipilih dan diperiksa sebelum dipakai dalam campuran beton. Fokusnya adalah tiga kondisi yang sering mengubah keputusan: gradasi, kebersihan, dan kelembapan. Gradasi berarti sebaran ukuran butir dalam suatu bahan; kebersihan berarti ada atau tidaknya material yang perlu dinilai terhadap persyaratan; sedangkan kelembapan adalah kondisi air pada agregat saat material dipakai.
+
+Batas ini penting. Memilih bahan untuk dicoba atau menahan bahan sampai datanya jelas bukanlah persetujuan tambang, persetujuan sumber, atau pernyataan bahwa beton terpasang pasti memenuhi kebutuhan proyek. Untuk keputusan tersebut diperlukan dokumen proyek yang berlaku, identitas material dan batch, prosedur pemasok, serta metode pengujian dan hasil yang dapat ditelusuri.
+
+`[NEEDS REVIEW: spesifikasi proyek yang berlaku, data agregat per batch, dan metode uji/penerimaan harus tersedia sebelum agregat disetujui untuk pekerjaan tertentu.]`
 
 ## Cara kerjanya
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Agregat Beton: Gradasi, Kebersihan, Kelembapan, dan Dampaknya pada Campuran”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Gradasi memengaruhi cara butir dari berbagai ukuran tersusun dalam campuran. Saat susunan itu berubah, kebutuhan pasta semen-air untuk mengisi ruang antarbutir dan perilaku campuran saat diolah juga dapat berubah. Ini bukan alasan untuk menetapkan angka atau komposisi universal: rancangan yang tepat bergantung pada bahan sementisius, air, bahan tambah, ukuran agregat, metode penakaran, dan kebutuhan pekerjaan.
+
+Kebersihan perlu dilihat sebagai persoalan pengendalian masukan. Jika ada lumpur, bahan organik, pecahan yang tidak dikehendaki, atau kontaminan lain, jangan melompati penilaian dengan alasan campuran nanti “akan menyatu”. Catat material yang diperiksa, bandingkan dengan persyaratan yang benar, dan tentukan tindak lanjut oleh pihak yang berwenang. Jangan mengutip batas, frekuensi pengujian, atau klasifikasi hanya dari halaman katalog standar; dokumen standar dan spesifikasi proyek lengkap tetap diperlukan.
+
+Kelembapan menghubungkan agregat dengan air campuran. Air yang terbawa agregat dapat membuat air aktual pada satu batch berbeda dari perhitungan semula bila tidak diperhitungkan. Sebaliknya, agregat yang lebih kering dapat mengubah keseimbangan air yang tersedia. Karena air sumber, penggunaan yang dimaksud, bukti pengujian, identitas batch, penyesuaian yang diizinkan, dan kecocokan untuk perawatan adalah pertanyaan yang terpisah, setiap penambahan atau koreksi air perlu mengikuti prosedur dan otorisasi proyek ([rekaman SNI 7974:2018](https://pesta.bsn.go.id/produk/detail/13897-sni79742018); [ISO 22965-1](https://www.iso.org/standard/41260.html)).
 
 ## Faktor yang mengubah hasil
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Agregat Beton: Gradasi, Kebersihan, Kelembapan, dan Dampaknya pada Campuran”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Tidak ada satu daftar visual yang dapat menjamin agregat cocok untuk semua pekerjaan. Beberapa faktor yang perlu dibawa ke rapat keputusan ialah:
+
+- tujuan elemen dan cara pengecorannya, termasuk kebutuhan campuran saat segar;
+- bahan sementisius, air, dan bahan tambah yang benar-benar dipakai, bukan merek atau asumsi umum;
+- identitas sumber, tanggal penerimaan, pemisahan stok, dan identitas batch agregat;
+- hasil pemeriksaan yang memakai metode, laboratorium, dan kriteria proyek yang berlaku; serta
+- lingkungan layanan dan catatan konstruksi yang diperlukan untuk menilai kinerja jangka panjang.
+
+Poin terakhir sering terlupakan. Paparan lingkungan, asumsi desain, bukti material dan produksi, catatan konstruksi, inspeksi awal, mekanisme kerusakan, serta tindakan pemeliharaan merupakan hal yang berbeda dalam pengelolaan umur layan ([ISO 16204](https://www.iso.org/standard/55862.html); [ISO 22040](https://www.iso.org/standard/72390.html)). Teman Concrete.co.id, jangan mengubah informasi agregat semata menjadi janji umur layan atau ketahanan tertentu.
+
+Untuk kebutuhan produk yang dibuat berulang, seperti [beton pracetak](/beton-precast), disiplin identitas batch dan catatan proses tetap penting. Produk berulang bukan alasan untuk menyalin keputusan lama ketika bahan, kondisi stok, atau persyaratan pekerjaan berubah.
 
 ## Contoh keputusan praktis
 
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Agregat Beton: Gradasi, Kebersihan, Kelembapan, dan Dampaknya pada Campuran”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Gunakan skenario berikut sebagai cara menyusun pertanyaan, bukan sebagai resep persetujuan.
+
+| Situasi yang terlihat | Pertanyaan keputusan | Tindakan yang lebih aman |
+| --- | --- | --- |
+| Pasokan tampak berbeda dari penerimaan sebelumnya | Apakah identitas sumber/batch dan data gradasinya masih sama atau sudah berubah? | Pisahkan material dan minta verifikasi sesuai prosedur sebelum dipakai untuk campuran yang sama. |
+| Stok terkena hujan atau disimpan dalam kondisi berbeda | Berapa kondisi kelembapan saat penakaran, dan siapa yang berwenang menyesuaikan air? | Catat kondisi aktual; lakukan penyesuaian hanya dengan prosedur serta bukti yang disetujui. |
+| Campuran terasa berbeda saat dikerjakan | Apakah ada perubahan bahan, penakaran, urutan produksi, atau kondisi material? | Telusuri catatan batch dan pemeriksaan beton segar; jangan langsung menambah air. |
+| Elemen membutuhkan keputusan teknis lebih lanjut | Apa kriteria proyek, metode uji, dan hasil asli yang menjadi dasar penerimaan? | Tahan keputusan akhir sampai penanggung jawab teknis meninjau bukti yang lengkap. |
+
+Apabila pembaca sedang membandingkan bahan penyusun secara lebih luas, halaman [campuran](/campuran) dapat menjadi langkah berikutnya. Namun halaman tersebut tidak menggantikan catatan produksi dan penilaian pada batch yang sedang dipakai.
 
 ## Kesalahan umum dan cara memeriksanya
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Agregat Beton: Gradasi, Kebersihan, Kelembapan, dan Dampaknya pada Campuran”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kesalahan pertama adalah memakai istilah “bersih” tanpa definisi pemeriksaan. Ubah menjadi pertanyaan yang bisa ditindaklanjuti: material apa yang ditemukan, metode apa yang berlaku, siapa yang menilai, dan apakah hasilnya dapat ditelusuri ke batch tertentu?
 
-## Objection or shortcut to address
+Kesalahan kedua adalah menganggap kelembapan hanya masalah cuaca. Kelembapan adalah data proses karena dapat mengubah air yang terbawa saat material ditakar. Catat kondisi stok dan waktu pengamatan, lalu hubungkan dengan catatan batch; jangan menyamakan perkiraan lapangan dengan bukti pengujian.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+Kesalahan ketiga adalah menganggap hasil baik dari satu campuran percobaan cukup untuk seluruh pekerjaan. *Trial mix* dapat membantu menilai usulan, tetapi bukan pengganti bukti penakaran, pemeriksaan beton segar, hasil benda uji, atau kondisi terpasang. Sobat Concrete.co.id, pisahkan bukti tersebut agar masalah dapat ditelusuri tanpa saling menyalahkan.
 
-## Required conclusion
+Kesalahan keempat adalah mengejar kemudahan dengan menambah air ketika campuran tidak seperti yang diharapkan. Jalan pintas ini dapat menyembunyikan perubahan kondisi agregat atau proses lain. Alternatif yang lebih andal adalah menahan perubahan sembarang, memeriksa identitas dan catatan batch, lalu mengikuti penyesuaian yang memang diizinkan oleh spesifikasi dan penanggung jawab teknis.
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+## Langkah berikutnya sebelum agregat dipakai
 
-## Draft completion checklist
+Pilih agregat beton dengan membaca gradasi, kebersihan, dan kelembapan sebagai satu rangkaian keputusan campuran—bukan tiga pemeriksaan terpisah yang dapat diabaikan saat pengecoran dimulai. Siapkan identitas bahan dan batch, spesifikasi proyek, hasil pemeriksaan yang dapat ditelusuri, serta catatan penakaran sebelum memberi keputusan pakai, tahan, atau evaluasi lanjut.
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Sobat Concrete.co.id!` and uses friendly `Concrete.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Aturan operasinya sederhana: bila bukti untuk bahan, batch, metode, atau kriteria penerimaan belum lengkap, jangan menggantinya dengan dugaan visual atau penambahan air. Minta peninjauan profesional/proyek sesuai kewenangannya terlebih dahulu.
