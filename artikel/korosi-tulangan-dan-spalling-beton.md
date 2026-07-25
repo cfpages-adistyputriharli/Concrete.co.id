@@ -3,7 +3,7 @@ article_id: CON-06-04
 title: "Korosi Tulangan dan Beton Mengelupas: Bukti Apa yang Dibutuhkan?"
 slug: "korosi-tulangan-dan-spalling-beton"
 description: "Triage symptoms and gather evidence before repair or escalation"
-status: outline
+status: draft
 publication_date: "2026-04-13"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -21,174 +21,98 @@ sources:
   - "https://www.iso.org/standard/41260.html"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
 # Korosi Tulangan dan Beton Mengelupas: Bukti Apa yang Dibutuhkan?
 
-## Assignment lock
+Halo, Kawan Concrete.co.id! Beton yang mengelupas hingga memperlihatkan tulangan berkarat bukan tanda yang aman untuk langsung ditutup mortar atau dicat. Bukti pertama yang dibutuhkan adalah catatan kondisi: lokasi dan luas gejala, bagian beton yang lepas, tulangan yang terlihat, riwayat perubahan, paparan air, serta apakah kondisi itu berkembang. Sesudah itu, keputusan perlu didasarkan pada survei dan penilaian yang sesuai dengan struktur tersebut—bukan pada foto atau satu gejala saja.
 
-- **Writer task:** Expand this file into one complete article answering: “Korosi Tulangan dan Beton Mengelupas: Bukti Apa yang Dibutuhkan?”
-- **Reader and situation:** Triage symptoms and gather evidence before repair or escalation
-- **Reader outcome:** Triage symptoms and gather evidence before repair or escalation
-- **Primary intent:** Diagnosis
-- **Reader community:** `Concrete.co.id`
-- **Primary friendly address:** `Kawan Concrete.co.id`
-- **Natural variants:** `Sobat Concrete.co.id` and `Teman Concrete.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Condition evidence and escalation; no remaining-capacity claim
-- **Final public route:** `/artikel/korosi-tulangan-dan-spalling-beton.html`
-- **Appointed CMS date:** `2026-04-13` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Korosi tulangan dan *spalling* (beton yang pecah atau mengelupas) dapat berkaitan, tetapi gejala tidak otomatis membuktikan penyebab, kapasitas tersisa, atau metode perbaikan yang aman. Prinsip pemeliharaan dan penilaian struktur beton membedakan gejala, riwayat, survei, pengujian, hipotesis mekanisme, tujuan perbaikan, hingga pemantauan penerimaan sebagai hal yang berbeda. [ISO 16311-1](https://www.iso.org/standard/86446.html) dan [ISO 16311-2](https://www.iso.org/standard/79786.html) menyediakan kerangka publik untuk membedakan tahap-tahap tersebut.
 
-## Opening instructions
+![Ilustrasi Campuran Beton](/wp-content/uploads/2024/04/Campuran-Beton.jpg)
 
-- Open with the exact short salutation: **“Halo, Kawan Concrete.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Korosi Tulangan dan Beton Mengelupas: Bukti Apa yang Dibutuhkan?**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Kawan Concrete.co.id`, `Sobat Concrete.co.id`, or `Teman Concrete.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
+*Aset lokal proyek; bukan dokumentasi proyek tertentu.*
 
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-001`
 - **Source type:** `local`
 - **Placement:** after the opening has answered the main question, before the first detailed H2
 - **Exact Markdown to insert:** `![Ilustrasi Campuran Beton](/wp-content/uploads/2024/04/Campuran-Beton.jpg)`
-- **Caption/credit:** Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
+- **Caption/credit:** Aset lokal proyek; bukan dokumentasi proyek tertentu.
 - **Selection basis:** filename/source metadata identifies `Campuran Beton` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
-
-## Evidence packet
-
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
-
-### KR-12
-
-- **Original sources:** [ISO 16204:2012 service-life design](https://www.iso.org/standard/55862.html), [ISO 22040:2021 concrete-structure lifecycle management](https://www.iso.org/standard/72390.html).
-- **Purpose for this article:** Ground durability, service-life, inspection, maintenance, and lifecycle planning.
-- **Safe grounded facts:** Exposure, design assumptions, material/production evidence, construction records, inspection baseline, deterioration mechanism, maintenance action, and actual performance are distinct.
-- **Limits:** No universal service life, maintenance interval, corrosion threshold, or durability result without the structure's environment, condition, full criteria, and competent review.
-
-### KR-13
-
-- **Original sources:** [ISO 16311-1:2024 maintenance and repair principles](https://www.iso.org/standard/86446.html), [ISO 16311-2:2024 assessment of existing concrete structures](https://www.iso.org/standard/79786.html).
-- **Purpose for this article:** Ground crack, honeycomb, leakage, corrosion, spalling, assessment, and repair articles.
-- **Safe grounded facts:** Symptom, history, exposure, survey limit, testing, mechanism hypothesis, safety consequence, repair objective, design, execution, acceptance, and monitoring are separate.
-- **Limits:** A photograph or generic symptom cannot establish cause, capacity, remaining life, repair material, or safe continued use.
-
-### KR-14
-
-- **Original sources:** [ISO 22965-1:2007 concrete scope](https://www.iso.org/standard/41260.html), [ISO 16311-1:2024 maintenance and repair principles](https://www.iso.org/standard/86446.html).
-- **Purpose for this article:** Ground floor, polished, trowelled, decorative, coating, cleaning, and mock-up decisions.
-- **Safe grounded facts:** A sample, mock-up, product data sheet, substrate test, method statement, batch/area record, acceptance criteria, and maintenance instruction prove different things.
-- **Limits:** Obtain exact product TDS/SDS, substrate criteria, mock-up agreement, environment, installer method, and warranty before promising appearance, adhesion, slip, chemical, or maintenance performance.
-
-## Evidence gates
-
-- **GATE-03:** Obtain project drawings, calculations, site conditions, and competent structural/geotechnical/temporary-works review.
-- **GATE-05:** Obtain the governing sampling/test/inspection method, laboratory scope, project criteria, and original traceable results.
-- **GATE-08:** Obtain condition survey, history, testing, mechanism assessment, product compatibility, repair design, mock-up, and monitored acceptance.
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/beton-precast` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/jasa/coring-beton` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/beton-precast/u-ditch` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/beton-precast/tiang-pancang` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/beton-precast/tiang-listrik` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/beton-precast/sheet-pile` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `CON-06-02` → `/artikel/honeycomb-beton-penyebab-dan-pemeriksaan.html` — Honeycomb pada Beton: Bedakan Penampilan, Kedalaman, Penyebab, dan Konsekuensi
-- `CON-06-03` → `/artikel/investigasi-kebocoran-beton.html` — Beton Bocor: Jalur Air Tidak Selalu Sama dengan Lokasi Noda
-- `CON-06-05` → `/artikel/memilih-metode-perbaikan-beton.html` — Memilih Perbaikan Beton: Pulihkan Fungsi, Bukan Sekadar Tutup Permukaan
-- `CON-06-06` → `/artikel/rencana-inspeksi-dan-perawatan-beton.html` — Inspeksi dan Perawatan Beton: Cara Membuat Baseline yang Bisa Dibandingkan
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+END MANAGED IMAGE PLAN -->
 
 ## Mulai dari gejala, bukan tebakan penyebab
 
-- **Purpose:** Tentukan apa yang terlihat/terukur, lokasi, waktu, perubahan, dan keterbatasan pengamatan.
-- **Tie back to this article:** Keep the explanation specific to “Korosi Tulangan dan Beton Mengelupas: Bukti Apa yang Dibutuhkan?”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Mulailah dengan memisahkan apa yang terlihat dari apa yang belum diketahui. Catat elemen dan posisinya, misalnya muka bawah pelat, tepi balok, kolom, dinding, atau komponen pracetak; lalu foto dengan penanda ukuran dan tanggal. Rekam retak, noda karat, kelembapan, beton lepas, tulangan terbuka, bunyi hampa saat pemeriksaan yang aman, serta perubahan sejak pengamatan terakhir. Sertakan pula kapan gejala pertama muncul dan apakah ada kebocoran, genangan, paparan cuaca, garam, benturan, pekerjaan baru, atau perubahan penggunaan.
+
+Daftar ini bukan diagnosis. Ia membuat pengamatan dapat dibandingkan pada pemeriksaan berikutnya dan membantu pemeriksa memahami konteks. Dalam pengelolaan siklus hidup struktur beton, asumsi paparan dan desain, bukti produksi/konstruksi, baseline inspeksi, mekanisme deteriorasi, tindakan pemeliharaan, dan kinerja aktual memang diperlakukan sebagai informasi yang berbeda. Lihat ruang lingkup [ISO 16204](https://www.iso.org/standard/55862.html) dan [ISO 22040](https://www.iso.org/standard/72390.html).
+
+Satu pertanyaan praktis: “Apa yang berubah, di titik mana, dan sejak kapan?” Jika jawabannya hanya “ada karat”, berhenti di fakta itu. Jangan mengubahnya menjadi kesimpulan bahwa seluruh struktur rusak atau sebaliknya bahwa kerusakan hanya kosmetik.
 
 ## Saringan risiko langsung
 
-- **Purpose:** Jelaskan kapan pembaca harus membatasi akses, menghentikan pekerjaan, atau meminta pemeriksaan kompeten.
-- **Tie back to this article:** Keep the explanation specific to “Korosi Tulangan dan Beton Mengelupas: Bukti Apa yang Dibutuhkan?”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Prioritas pertama adalah mencegah orang berada di bawah atau dekat bagian yang dapat menjatuhkan serpihan. Batasi akses bila ada beton longgar, serpihan baru jatuh, tulangan terlihat pada elemen yang menahan beban, retak yang tampak berubah, deformasi, kebocoran aktif pada area penting, atau pekerjaan pembebanan/pembongkaran yang akan berdekatan. Jangan mengetuk, mengupas, atau memahat bagian yang dicurigai untuk “melihat lebih jelas” tanpa metode dan pengendalian yang disetujui.
+
+Teman Concrete.co.id, pembatasan sementara bukan vonis bahwa elemen harus diganti. Itu kontrol sampai orang yang kompeten dapat menilai kondisi dan risiko. Bila gejala berada pada struktur, tanah pendukung, atau pekerjaan sementara yang dapat memengaruhi keselamatan, keputusan melanjutkan penggunaan atau pekerjaan memerlukan data proyek dan peninjauan kompeten.
+
+[NEEDS PROJECT CONDITION REVIEW: drawings, calculations, site conditions, and competent structural/geotechnical/temporary-works review.]
 
 ## Kemungkinan mekanisme
 
-- **Purpose:** Kelompokkan kemungkinan penyebab tanpa menyatakan diagnosis dari bukti yang belum cukup.
-- **Tie back to this article:** Keep the explanation specific to “Korosi Tulangan dan Beton Mengelupas: Bukti Apa yang Dibutuhkan?”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Korosi tulangan dapat menghasilkan produk korosi yang mendorong beton penutup, lalu memicu retak memanjang atau pengelupasan. Namun hubungan visual itu tetap hipotesis hingga konteks dan pemeriksaan memadai. Air yang berulang, kebocoran, lingkungan paparan, detail yang menahan air, retak yang sudah ada, mutu atau ketebalan penutup yang perlu diverifikasi, maupun gangguan fisik dapat menjadi bagian dari cerita yang berbeda pada lokasi berbeda.
+
+Ada pula kondisi yang menyerupai pola tersebut tetapi membutuhkan penjelasan lain: beton lepas akibat benturan, rongga atau cacat pelaksanaan, atau kerusakan permukaan setempat. Karena itu, jangan memilih bahan perbaikan hanya dari warna noda atau ukuran satu bidang yang terkelupas. Pedoman penilaian struktur yang ada menempatkan survei kondisi, pengujian, dan penilaian mekanisme sebelum rancangan serta penerimaan perbaikan. [ISO 16311-2](https://www.iso.org/standard/79786.html) adalah rujukan publik untuk tahap penilaian tersebut.
+
+Sobat Concrete.co.id, sebuah mekanisme yang masuk akal belum sama dengan mekanisme yang terbukti. Tulis sebagai kemungkinan, lalu tentukan bukti apa yang dapat menguatkan atau menyangkalnya.
 
 ## Urutan pemeriksaan dan pengujian
 
-- **Purpose:** Susun observasi, dokumen, tes, sampel, atau pengukuran dari yang paling aman dan informatif.
-- **Tie back to this article:** Keep the explanation specific to “Korosi Tulangan dan Beton Mengelupas: Bukti Apa yang Dibutuhkan?”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Urutkan pekerjaan dari informasi yang paling aman dan paling sedikit mengganggu kondisi.
+
+1. Amankan area bila perlu, lalu dokumentasikan kondisi awal secara konsisten.
+2. Kumpulkan dokumen yang ada: gambar, riwayat pekerjaan, perubahan penggunaan, catatan kebocoran/perbaikan, dan catatan inspeksi sebelumnya.
+3. Lakukan survei kondisi dengan batas survei yang jelas: area yang diperiksa, akses yang tidak tersedia, tanggal, metode, dan temuan yang benar-benar diamati.
+4. Bila diperlukan, tetapkan pertanyaan pengujian sebelum mengambil sampel atau melakukan pengukuran. Metode, cakupan laboratorium, kriteria proyek, dan hasil asli yang dapat ditelusuri harus tersedia agar hasil dapat ditafsirkan.
+5. Gabungkan temuan dengan hipotesis mekanisme, kemudian tentukan apakah perlu desain perbaikan, pemantauan, atau eskalasi.
+
+Pengujian bukan ritual untuk memperoleh satu angka. Nilainya bergantung pada pertanyaan, lokasi, metode, keterwakilan sampel, serta kriteria penerimaannya. [ISO 22965-1](https://www.iso.org/standard/41260.html) menjelaskan ruang lingkup standar beton, sedangkan [ISO 16311-1](https://www.iso.org/standard/86446.html) menempatkan penilaian dan perbaikan dalam kerangka pemeliharaan struktur. Untuk kebutuhan pengambilan inti yang telah ditetapkan oleh penilai kompeten, informasi layanan [coring beton](/jasa/coring-beton) dapat menjadi langkah operasional berikutnya—bukan pengganti penetapan metode dan kriteria proyek.
+
+[NEEDS TEST INTERPRETATION: governing sampling/test/inspection method, laboratory scope, project criteria, and original traceable results.]
 
 ## Cara membaca hasil tanpa melompat ke kesimpulan
 
-- **Purpose:** Pisahkan hasil tes, kriteria proyek, sebab, konsekuensi, dan otoritas keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Korosi Tulangan dan Beton Mengelupas: Bukti Apa yang Dibutuhkan?”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Pisahkan lima pertanyaan ketika menerima hasil survei atau laboratorium: apa yang diukur, di mana dan bagaimana pengukuran dilakukan, kriteria proyek apa yang dipakai, mekanisme apa yang masih mungkin, dan siapa yang berwenang memutuskan tindakan. Hasil pada satu titik tidak otomatis mewakili seluruh elemen. Sebaliknya, satu bidang yang tampak kecil tidak otomatis berarti konsekuensinya kecil.
+
+Tabel ringkas ini membantu menjaga urutannya.
+
+| Yang tersedia | Yang belum dapat dipastikan sendiri |
+| --- | --- |
+| Foto retak, noda karat, atau beton lepas | Penyebab tunggal dan kapasitas tersisa |
+| Catatan lokasi dan waktu perubahan | Luas kondisi di area yang tidak disurvei |
+| Hasil uji yang dapat ditelusuri | Kelayakan perbaikan tanpa kriteria dan desain proyek |
+| Produk atau metode yang diusulkan | Kecocokan sistem, penerimaan, dan kinerja jangka panjang |
+
+Kawan Concrete.co.id, minta laporan menyebutkan batas survei dan ketidakpastian secara jelas. Itu lebih berguna daripada kesimpulan cepat yang tidak menjelaskan dasar keputusan. Standar dan prinsip siklus hidup juga membedakan tindakan pemeliharaan dari bukti kinerja aktual; tindakan yang dilakukan belum membuktikan hasilnya. [ISO 22040](https://www.iso.org/standard/72390.html)
 
 ## Pilihan tindakan dan titik eskalasi
 
-- **Purpose:** Bedakan kontrol sementara, pemantauan, perbaikan, penggantian, dan review profesional.
-- **Tie back to this article:** Keep the explanation specific to “Korosi Tulangan dan Beton Mengelupas: Bukti Apa yang Dibutuhkan?”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Pilihan tindakan mengikuti tingkat risiko dan tujuan yang sudah ditetapkan, bukan sekadar tampilan akhir. Kontrol sementara dapat berupa pembatasan akses dan pencegahan jatuhnya serpihan. Pemantauan hanya masuk akal bila batas kondisi, interval, penanggung jawab, dan pemicu eskalasinya ditetapkan. Perbaikan memerlukan kesesuaian antara kondisi substrat, mekanisme yang dinilai, tujuan perbaikan, rancangan, pelaksanaan, dan penerimaan.
 
-## Objection or shortcut to address
+Eskalasi ke penilai atau perancang kompeten diperlukan ketika ada unsur keselamatan, fungsi struktural, kerusakan yang berkembang, paparan yang tidak dipahami, pekerjaan yang mengubah beban/akses, atau bukti yang saling bertentangan. Sebelum menjanjikan kesesuaian material atau hasil perbaikan, kumpulkan kondisi, riwayat, pengujian, kompatibilitas produk, rancangan perbaikan, *mock-up* (contoh kerja yang disepakati), dan penerimaan yang dipantau. [ISO 16311-1](https://www.iso.org/standard/86446.html) membedakan prinsip pemeliharaan dan perbaikan dari pembuktian hasil pada struktur tertentu.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+[NEEDS REPAIR DECISION REVIEW: condition survey, history, testing, mechanism assessment, product compatibility, repair design, mock-up, and monitored acceptance.]
 
-## Required conclusion
+## Jangan sekadar tutup dan cat
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+Jalan pintas yang sering menggoda adalah membersihkan noda, menutup bagian terbuka, lalu mengecat permukaan agar tampak rapi. Tampilan dapat berubah, tetapi jalur air, kondisi di balik area terbuka, penyebab pengelupasan, dan penerimaan perbaikan belum tentu telah ditangani. Bahkan produk yang memiliki lembar data tidak menggantikan pemeriksaan substrat, metode pelaksanaan, dan kriteria penerimaan yang disepakati untuk kondisi aktual.
 
-## Draft completion checklist
+Alternatif yang lebih andal adalah berhenti pada batas bukti yang ada: dokumentasikan, kendalikan risiko langsung, tetapkan pertanyaan pemeriksaan, lalu pilih tindakan sesudah mekanisme dan tujuan perbaikan ditinjau. Jika komponen yang diperiksa adalah produk pracetak, kenali dulu fungsi dan detail komponennya—misalnya pada informasi [beton pracetak](/beton-precast)—tetapi jangan menjadikan halaman produk sebagai dasar diagnosis kondisi di lapangan.
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Kawan Concrete.co.id!` and uses friendly `Concrete.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+## Langkah berikutnya: kumpulkan bukti yang mengubah keputusan
+
+Jawaban ringkasnya: untuk korosi tulangan dan beton mengelupas, kumpulkan bukti kondisi, lokasi, perubahan, riwayat, paparan, batas survei, serta hasil pemeriksaan yang dapat ditelusuri sebelum memutuskan perbaikan. Bukti itu dapat menunjukkan perlunya kontrol sementara, pemantauan yang terencana, pemeriksaan lebih lanjut, atau rancangan perbaikan; ia tidak sendiri membuktikan kapasitas tersisa atau aman tidaknya penggunaan.
+
+Mulai hari ini, buat satu paket kondisi berisi foto bertanggal dengan penanda lokasi/ukuran, daftar perubahan, dokumen yang tersedia, dan pertanyaan pemeriksaan yang ingin dijawab. Kemudian minta penilaian kompeten bila saringan risiko terpicu atau bukti belum cukup. Aturan operasinya sederhana: jangan menutup gejala sebelum batas kondisi, mekanisme yang dinilai, dan otoritas keputusan jelas.

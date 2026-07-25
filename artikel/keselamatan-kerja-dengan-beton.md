@@ -3,7 +3,7 @@ article_id: CON-09-06
 title: "Debu Silika, Beton Basah, dan Area Kerja: Risiko yang Harus Direncanakan"
 slug: "keselamatan-kerja-dengan-beton"
 description: "Match equipment and method to access, placement, cutting, lifting, dust, and site controls"
-status: outline
+status: draft
 publication_date: "2026-06-28"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -25,37 +25,7 @@ sources:
   - "https://www.ilo.org/sites/default/files/wcmsp5/groups/public/%40ed_dialogue/%40sector/documents/instructionalmaterial/wcms_161770.pdf"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
-# Debu Silika, Beton Basah, dan Area Kerja: Risiko yang Harus Direncanakan
-
-## Assignment lock
-
-- **Writer task:** Expand this file into one complete article answering: “Debu Silika, Beton Basah, dan Area Kerja: Risiko yang Harus Direncanakan”
-- **Reader and situation:** Match equipment and method to access, placement, cutting, lifting, dust, and site controls
-- **Reader outcome:** Match equipment and method to access, placement, cutting, lifting, dust, and site controls
-- **Primary intent:** Safety
-- **Reader community:** `Concrete.co.id`
-- **Primary friendly address:** `Teman Concrete.co.id`
-- **Natural variants:** `Sobat Concrete.co.id` and `Kawan Concrete.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Hazard awareness and controls hierarchy; not a site safety plan
-- **Final public route:** `/artikel/keselamatan-kerja-dengan-beton.html`
-- **Appointed CMS date:** `2026-06-28` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
-
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Teman Concrete.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Debu Silika, Beton Basah, dan Area Kerja: Risiko yang Harus Direncanakan**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Teman Concrete.co.id`, `Sobat Concrete.co.id`, or `Kawan Concrete.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-001`
@@ -63,141 +33,79 @@ sources:
 - **Placement:** after the opening has answered the main question, before the first detailed H2
 - **Exact Markdown to insert:** `![Ilustrasi Campuran Beton](/wp-content/uploads/2024/04/Campuran-Beton.jpg)`
 - **Caption/credit:** Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
-- **Selection basis:** filename/source metadata identifies `Campuran Beton` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
-- **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+# Debu Silika, Beton Basah, dan Area Kerja: Risiko yang Harus Direncanakan
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Halo, Teman Concrete.co.id! Pekerjaan beton tidak menjadi aman hanya karena campurannya sudah datang atau alat potong sudah tersedia. Debu saat pemotongan, percikan beton basah, serta lalu lintas orang dan alat di area kerja harus direncanakan sebelum pekerjaan dimulai.
 
-### KR-03
+Jawaban singkatnya: pilih metode dan peralatan setelah jalur akses, kondisi struktur, sumber debu, titik angkat, area larangan masuk, dan cara komunikasi tim diperiksa. APD penting, tetapi bukan satu-satunya jawaban. Keputusan dapat berubah oleh gambar kerja, kondisi lapangan, data peralatan, SDS bahan, dan penilaian K3 khusus tugas. [NEEDS REVIEW: penilaian K3 khusus tugas, bukti peralatan, serta ketentuan hukum yang berlaku untuk proyek ini harus disetujui personel kompeten sebelum pekerjaan.]
 
-- **Original sources:** [SNI 2847:2019 concrete structural requirements record](https://pesta.bsn.go.id/produk/detail/12731-sni28472019), [SNI 1727:2020 minimum design loads record](https://pesta.bsn.go.id/produk/detail/12927-sni17272020).
-- **Purpose for this article:** Ground reinforced-concrete, cover, joints, formwork, temporary condition, and modification boundaries.
-- **Safe grounded facts:** Loads, geometry, reinforcement, supports, openings, exposure, fire, serviceability, temporary stages, construction sequence, and approved details can interact.
-- **Limits:** No sizing, capacity, reinforcement, cover, joint location, stripping time, drilling/cutting, or structural acceptance without the current full standards and project engineer approval.
+![Ilustrasi Campuran Beton](/wp-content/uploads/2024/04/Campuran-Beton.jpg)
 
-### KR-04
-
-- **Original sources:** [ISO 22965-2:2007 production and compliance catalogue](https://www.iso.org/committee/49906/x/catalogue/), [BSN concrete and concrete-product catalogue](https://pesta.bsn.go.id/produk/by_ics/21?ics_no=91&key=).
-- **Purpose for this article:** Ground constituent roles, mix design, trial mix, batching, production, and evidence chains.
-- **Safe grounded facts:** A proposed mix, trial result, batch record, fresh test, specimen result, and the condition of the installed concrete are different evidence.
-- **Limits:** No universal recipe, water-binder ratio, workability, strength development, curing duration, or compliance claim without exact materials and governing project evidence.
-
-### KR-10
-
-- **Original sources:** [Permenaker No. 8 Tahun 2020](https://peraturan.bpk.go.id/Home/Details/163270/permenaker-no-8-tahun-2020), [Permenaker No. 11 Tahun 2026](https://peraturan.bpk.go.id/Details/351282/permenaker-no-11-tahun-2026), [Permen PUPR No. 10 Tahun 2021 SMKK](https://jdih.pu.go.id/detail-dokumen/PermenPUPR-nomor-10-tahun-2021-Pedoman-Sistem-Manajemen-Keselamatan-Konstruksi).
-- **Purpose for this article:** Ground lifting, equipment, site roles, inspection, and construction-safety governance.
-- **Safe grounded facts:** Equipment identity/configuration, inspection/testing, competent roles, load/unit data, ground/support, access, exclusion, weather, communication, rescue, and approved method are distinct controls.
-- **Limits:** Recheck the current official consolidated law immediately before publication; never turn an article into an equipment operating, lifting, traffic, or site safety plan.
-
-### KR-11
-
-- **Original sources:** [ILO safety and health in construction code](https://www.ilo.org/sites/default/files/wcmsp5/groups/public/%40ed_dialogue/%40sector/documents/normativeinstrument/wcms_861584.pdf), [ILO construction OSH training material](https://www.ilo.org/sites/default/files/wcmsp5/groups/public/%40ed_dialogue/%40sector/documents/instructionalmaterial/wcms_161770.pdf).
-- **Purpose for this article:** Ground hazard awareness for cutting, coring, demolition, dust, cement contact, and control planning.
-- **Safe grounded facts:** Elimination/substitution, isolation, engineering controls, work practices, hygiene, exposure assessment, and suitable PPE are different control layers.
-- **Limits:** Do not convert ILO guidance into Indonesian exposure limits or a complete control plan; obtain current Indonesian law, SDS, task assessment, and competent HSE review.
-
-## Evidence gates
-
-- **GATE-02:** Recheck current Indonesian national/local law, permit, competence, inspection, and project applicability immediately before publication.
-- **GATE-03:** Obtain project drawings, calculations, site conditions, and competent structural/geotechnical/temporary-works review.
-- **GATE-07:** Obtain a task-specific K3 assessment, current legal consolidation, exposure/equipment evidence, exclusion and emergency controls, and competent approval.
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/beton-precast` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/jasa/coring-beton` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/beton-precast/u-ditch` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/beton-precast/tiang-pancang` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/beton-precast/tiang-listrik` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/beton-precast/sheet-pile` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `CON-09-04` → `/artikel/prinsip-curing-beton.html` — Curing Beton: Menjaga Kondisi, Bukan Sekadar Menyiram Permukaan
-- `CON-09-05` → `/artikel/pemeriksaan-sebelum-cutting-coring-beton.html` — Cutting, Coring, dan Bobok Beton: Periksa Struktur dan Utilitas Sebelum Mulai
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+Kredit: aset lokal proyek.
 
 ## Jawaban singkat dan salah paham utama
 
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Debu Silika, Beton Basah, dan Area Kerja: Risiko yang Harus Direncanakan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kesalahan yang sering terjadi adalah memperlakukan pemotongan, pengecoran, dan pengangkatan sebagai pekerjaan terpisah. Padahal satu perubahan metode dapat mengubah semuanya. Memindahkan titik pemotongan ke jalur sempit, misalnya, dapat meningkatkan paparan debu sekaligus mengganggu akses dan membuat orang masuk ke area yang seharusnya dikendalikan.
+
+Panduan ILO membedakan pengendalian melalui penghilangan atau penggantian bahaya, isolasi, pengendalian rekayasa, cara kerja, higiene, penilaian paparan, dan APD. Lapisan itu perlu dipilih sebagai satu sistem, bukan diganti seluruhnya dengan masker atau rambu. [Kode keselamatan dan kesehatan konstruksi ILO](https://www.ilo.org/sites/default/files/wcmsp5/groups/public/%40ed_dialogue/%40sector/documents/normativeinstrument/wcms_861584.pdf) dan [materi pelatihan konstruksi ILO](https://www.ilo.org/sites/default/files/wcmsp5/groups/public/%40ed_dialogue/%40sector/documents/instructionalmaterial/wcms_161770.pdf) adalah rujukan umum, bukan batas pajanan Indonesia atau rencana kerja lengkap.
 
 ## Definisi dan batas objek
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Debu Silika, Beton Basah, dan Area Kerja: Risiko yang Harus Direncanakan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Artikel ini membahas kesadaran bahaya dan urutan pertanyaan pengendalian pada pekerjaan yang melibatkan beton: penempatan campuran basah, pemotongan atau coring, pengangkatan elemen, serta pergerakan di area kerja. Ini bukan resep campuran, petunjuk mengoperasikan alat, rencana lalu lintas, maupun rencana keselamatan proyek.
+
+Beton basah bukan sekadar material yang perlu dirapikan. Kontak kulit, percikan ke mata, dan kebersihan sebelum makan atau pulang perlu masuk ke cara kerja. Pemotongan, coring, atau pembobokan dapat menciptakan debu; jangan menganggap jenis alat saja sudah membuktikan pengendaliannya memadai. Sobat Concrete.co.id, mulai dari pertanyaan sederhana: siapa yang dapat terpapar, dari arah mana, dan apa yang menghalangi orang itu keluar dari area bila kondisi berubah?
+
+Untuk struktur yang sudah ada, gambar, bukaan, tumpuan, tulangan, tahap sementara, serta detail yang disetujui dapat saling berkaitan. Catatan [SNI 2847:2019](https://pesta.bsn.go.id/produk/detail/12731-sni28472019) dan [SNI 1727:2020](https://pesta.bsn.go.id/produk/detail/12927-sni17272020) menunjukkan ruang lingkup kebutuhan struktur beton dan beban desain; keduanya bukan dasar untuk menentukan lokasi potong, ukuran bukaan, atau penerimaan struktur tanpa standar lengkap dan persetujuan insinyur proyek.
 
 ## Cara kerjanya
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Debu Silika, Beton Basah, dan Area Kerja: Risiko yang Harus Direncanakan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Rencanakan pekerjaan menurut alur bahaya, bukan urutan alat tiba. Tetapkan lokasi kerja, jalur material, jalur pejalan kaki, titik keluar, dan area yang harus steril. Lalu cek pekerjaan yang mengubah kondisi: pemotongan, bukaan, pengeboran, pengangkatan, atau permukaan licin akibat campuran basah. Setelah itu pilih pengendalian pada sumber dan lintasan bahaya sebelum menentukan APD yang sesuai.
+
+Pada pekerjaan berdebu, pertimbangkan apakah tugas dapat dihilangkan, dipindah ke kondisi yang lebih terkendali, atau memakai metode dengan pengendalian teknis yang sesuai penilaian tugas. Tetapkan pembatas fisik, tata cara pembersihan, higiene, dan siapa yang berwenang menghentikan pekerjaan. Jangan menjadikan satu metode pembersihan sebagai aturan umum tanpa menilai bagaimana debu akan tersebar pada kondisi sebenarnya.
+
+Pada beton basah, siapkan titik cuci, prosedur menangani pakaian atau sarung tangan yang terkontaminasi, dan perlindungan terhadap percikan sesuai risiko. Pada pengangkatan, identitas dan konfigurasi peralatan, data unit/beban, kondisi tanah atau tumpuan, cuaca, komunikasi, area eksklusi, serta kesiapan penyelamatan adalah pengendalian yang berbeda. Kerangka [Permenaker No. 8 Tahun 2020](https://peraturan.bpk.go.id/Home/Details/163270/permenaker-no-8-tahun-2020), [Permenaker No. 11 Tahun 2026](https://peraturan.bpk.go.id/Details/351282/permenaker-no-11-tahun-2026), dan [Pedoman SMKK Permen PUPR No. 10 Tahun 2021](https://jdih.pu.go.id/detail-dokumen/PermenPUPR-nomor-10-tahun-2021-Pedoman-Sistem-Manajemen-Keselamatan-Konstruksi) perlu dicek kembali versi terkini serta penerapannya pada proyek.
 
 ## Faktor yang mengubah hasil
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Debu Silika, Beton Basah, dan Area Kerja: Risiko yang Harus Direncanakan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Metode yang tampak wajar di satu lokasi bisa tidak cocok di lokasi lain. Ruang sempit, ventilasi, akses bertingkat, jalur umum, cuaca, permukaan tanah, pekerjaan berdekatan, dan kemampuan komunikasi tim dapat mengubah risiko. Aktivitas yang aman ketika area kosong tidak otomatis aman saat orang, kendaraan, atau pekerjaan lain berbagi jalur.
+
+Kawan Concrete.co.id, pisahkan pula bukti mutu dari bukti keselamatan. Usulan campuran, hasil trial mix, catatan batch, pengujian beton segar, hasil benda uji, dan kondisi beton terpasang adalah bukti yang berbeda. Katalog [ISO untuk produksi dan kesesuaian beton](https://www.iso.org/committee/49906/x/catalogue/) serta [katalog BSN untuk beton dan produk beton](https://pesta.bsn.go.id/produk/by_ics/21?ics_no=91&key=) membantu mengenali ruang lingkup dokumen, tetapi tidak membuktikan campuran tertentu aman digunakan atau pekerjaan tertentu sudah terkendali.
+
+Kondisi struktur juga mengubah batas keputusan. Sebelum coring pada elemen eksisting, jangan menebak lokasi tulangan, utilitas, atau kapasitas sisa dari tampilan permukaan. [NEEDS STRUCTURAL REVIEW: gambar terbaru, kondisi lapangan, perhitungan yang relevan, serta persetujuan profesional untuk pemotongan/coring harus tersedia sebelum metode ditetapkan.] Bila langkah berikutnya memang jasa khusus, informasi [layanan coring beton](/jasa/coring-beton) adalah titik awal percakapan—bukan otorisasi untuk memulai pekerjaan.
 
 ## Contoh keputusan praktis
 
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Debu Silika, Beton Basah, dan Area Kerja: Risiko yang Harus Direncanakan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Tabel berikut bukan rencana kerja. Gunakan sebagai pemicu untuk berhenti dan melengkapi informasi yang belum ada.
+
+| Kondisi yang ditemukan | Keputusan awal yang lebih aman | Bukti atau persetujuan yang dibutuhkan |
+| --- | --- | --- |
+| Pemotongan dekat jalur pekerja | Pisahkan atau jadwalkan ulang; tetapkan batas akses dan cara pengendalian debu. | Penilaian K3 tugas, metode kerja, dan briefing tim. |
+| Beton basah di area akses terbatas | Atur urutan penempatan, jalur keluar, titik cuci, dan pengendalian percikan sebelum material datang. | Kondisi akses aktual, SDS, serta persetujuan pengawas. |
+| Elemen pracetak dipindahkan | Tahan pekerjaan hingga metode angkat, area eksklusi, kondisi tumpuan, dan komunikasi diverifikasi. | Data elemen dan alat, pemeriksaan, kompetensi, serta rencana yang disetujui. |
+| Coring pada beton eksisting | Jangan memulai hanya dari penandaan permukaan. | Gambar dan pemeriksaan terkini, penilaian struktur/utilitas, serta persetujuan kompeten. |
+
+Untuk elemen seperti [U-ditch pracetak](/beton-precast/u-ditch), [tiang pancang](/beton-precast/tiang-pancang), atau [sheet pile](/beton-precast/sheet-pile), bentuk produk tidak memberi izin otomatis untuk metode pengangkatan tertentu. Berat aktual, titik angkat yang ditetapkan, konfigurasi alat, dan kondisi lokasi tetap harus dibuktikan untuk pekerjaan tersebut.
 
 ## Kesalahan umum dan cara memeriksanya
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Debu Silika, Beton Basah, dan Area Kerja: Risiko yang Harus Direncanakan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Shortcut yang realistis berbunyi, “Pekerja sudah berpengalaman, jadi cukup pakai APD dan segera selesai.” Pengalaman membantu mengenali pekerjaan, tetapi tidak menggantikan pemeriksaan terhadap perubahan akses, cuaca, alat, struktur, atau pekerjaan lain di sekitar. Risiko sering muncul pada antarmuka itu, bukan pada satu gerakan kerja yang sudah biasa.
 
-## Objection or shortcut to address
+Gunakan pemeriksaan sebelum mulai berikut:
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+- Apakah batas area, jalur orang, dan jalur material sudah tampak dan dapat dipatuhi?
+- Apakah sumber debu, percikan, jatuh, dan ayunan beban telah dinilai untuk kondisi lokasi hari ini?
+- Apakah pengendalian di sumber dan lintasan bahaya sudah dipilih sebelum APD?
+- Apakah identitas alat, kondisi pendukung, komunikasi, serta peran pengawas dan operator sudah diverifikasi?
+- Jika pekerjaan menyentuh struktur eksisting, adakah gambar terbaru dan persetujuan yang diperlukan?
+- Apakah penghentian kerja, keadaan darurat, dan akses pertolongan dipahami tim?
 
-## Required conclusion
+Jika satu jawaban penting belum tersedia, jangan menutupinya dengan asumsi. Teman Concrete.co.id, keputusan yang tepat adalah menunda bagian pekerjaan itu sampai penilaian tugas dan bukti yang relevan tersedia. Ini terutama penting sebelum pekerjaan melibatkan modifikasi struktur, pengangkatan, atau area yang tidak dapat dipisahkan dengan aman.
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+## Langkah berikutnya sebelum pekerjaan beton dimulai
 
-## Draft completion checklist
+Debu silika, beton basah, dan area kerja harus direncanakan sebagai satu rangkaian: kendalikan sumber bahaya, lindungi jalur di sekitarnya, lalu lengkapi APD dan cara kerja yang tepat. Sebelum mobilisasi, minta penilaian K3 khusus tugas, cek kondisi lokasi hari itu, kumpulkan data alat serta material, dan pastikan pihak kompeten menyetujui metode.
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Teman Concrete.co.id!` and uses friendly `Concrete.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Aturan operasionalnya sederhana: bila akses, kondisi struktur, pengendalian debu, data pengangkatan, atau tanggung jawab penghentian kerja belum jelas, jangan mulai. Artikel ini adalah panduan kesadaran bahaya; rencana keselamatan dan persetujuan proyek tetap harus disusun untuk kondisi pekerjaan yang nyata.
