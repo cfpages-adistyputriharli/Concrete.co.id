@@ -3,7 +3,7 @@ article_id: CON-08-04
 title: "Mock-Up Beton Dekoratif: Sampel Kecil untuk Mencegah Sengketa Besar"
 slug: "mock-up-beton-dekoratif"
 description: "Select finish systems and understand substrate, mock-up, execution, and maintenance needs"
-status: outline
+status: draft
 publication_date: "2026-05-28"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -23,37 +23,7 @@ sources:
   - "https://www.iso.org/standard/41260.html"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
-# Mock-Up Beton Dekoratif: Sampel Kecil untuk Mencegah Sengketa Besar
-
-## Assignment lock
-
-- **Writer task:** Expand this file into one complete article answering: “Mock-Up Beton Dekoratif: Sampel Kecil untuk Mencegah Sengketa Besar”
-- **Reader and situation:** Select finish systems and understand substrate, mock-up, execution, and maintenance needs
-- **Reader outcome:** Select finish systems and understand substrate, mock-up, execution, and maintenance needs
-- **Primary intent:** Process
-- **Reader community:** `Concrete.co.id`
-- **Primary friendly address:** `Sobat Concrete.co.id`
-- **Natural variants:** `Kawan Concrete.co.id` and `Teman Concrete.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Acceptance planning; no automatic match across batches/site conditions
-- **Final public route:** `/artikel/mock-up-beton-dekoratif.html`
-- **Appointed CMS date:** `2026-05-28` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
-
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Sobat Concrete.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Mock-Up Beton Dekoratif: Sampel Kecil untuk Mencegah Sengketa Besar**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Sobat Concrete.co.id`, `Kawan Concrete.co.id`, or `Teman Concrete.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-008`
@@ -64,140 +34,70 @@ sources:
 - **Selection basis:** filename/source metadata identifies `Beton Biasa` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-008]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+Halo, Sobat Concrete.co.id!
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Untuk beton dekoratif, mock-up bukan hiasan presentasi dan bukan sekadar potongan yang “terlihat bagus”. Ia adalah sampel kerja yang dipakai untuk menyamakan keputusan sebelum luas pekerjaan bertambah: sistem finishing apa yang dipilih, dasar beton seperti apa yang diterima, cara pelaksanaan mana yang disetujui, dan bukti apa yang harus disimpan. Sampel kecil tidak menjamin seluruh lantai akan identik, tetapi ia membuat perbedaan yang dapat diterima dibicarakan ketika biaya koreksinya masih kecil.
 
-### KR-04
+Jawaban singkatnya: jangan mulai area utama hanya karena contoh warna atau brosur sudah disukai. Buat dan setujui mock-up yang mewakili sistem, kondisi alas, metode, batas penerimaan, serta cara perawatannya. Keputusan itu masih dapat berubah bila data produk, kondisi substrat, lingkungan kerja, atau metode pemasang tidak cocok dengan sampel. Dokumentasi produk dan pekerjaan yang berbeda memang membuktikan hal yang berbeda; [ISO 22965-1](https://www.iso.org/standard/41260.html) dan [ISO 16311-1](https://www.iso.org/standard/86446.html) menempatkan lingkup beton serta prinsip pemeliharaan/perbaikan pada konteks yang tidak dapat disederhanakan menjadi satu klaim tampilan.
 
-- **Original sources:** [ISO 22965-2:2007 production and compliance catalogue](https://www.iso.org/committee/49906/x/catalogue/), [BSN concrete and concrete-product catalogue](https://pesta.bsn.go.id/produk/by_ics/21?ics_no=91&key=).
-- **Purpose for this article:** Ground constituent roles, mix design, trial mix, batching, production, and evidence chains.
-- **Safe grounded facts:** A proposed mix, trial result, batch record, fresh test, specimen result, and the condition of the installed concrete are different evidence.
-- **Limits:** No universal recipe, water-binder ratio, workability, strength development, curing duration, or compliance claim without exact materials and governing project evidence.
+![Ilustrasi Beton Biasa](/wp-content/uploads/2024/04/Beton-Biasa.jpg)
 
-### KR-12
-
-- **Original sources:** [ISO 16204:2012 service-life design](https://www.iso.org/standard/55862.html), [ISO 22040:2021 concrete-structure lifecycle management](https://www.iso.org/standard/72390.html).
-- **Purpose for this article:** Ground durability, service-life, inspection, maintenance, and lifecycle planning.
-- **Safe grounded facts:** Exposure, design assumptions, material/production evidence, construction records, inspection baseline, deterioration mechanism, maintenance action, and actual performance are distinct.
-- **Limits:** No universal service life, maintenance interval, corrosion threshold, or durability result without the structure's environment, condition, full criteria, and competent review.
-
-### KR-13
-
-- **Original sources:** [ISO 16311-1:2024 maintenance and repair principles](https://www.iso.org/standard/86446.html), [ISO 16311-2:2024 assessment of existing concrete structures](https://www.iso.org/standard/79786.html).
-- **Purpose for this article:** Ground crack, honeycomb, leakage, corrosion, spalling, assessment, and repair articles.
-- **Safe grounded facts:** Symptom, history, exposure, survey limit, testing, mechanism hypothesis, safety consequence, repair objective, design, execution, acceptance, and monitoring are separate.
-- **Limits:** A photograph or generic symptom cannot establish cause, capacity, remaining life, repair material, or safe continued use.
-
-### KR-14
-
-- **Original sources:** [ISO 22965-1:2007 concrete scope](https://www.iso.org/standard/41260.html), [ISO 16311-1:2024 maintenance and repair principles](https://www.iso.org/standard/86446.html).
-- **Purpose for this article:** Ground floor, polished, trowelled, decorative, coating, cleaning, and mock-up decisions.
-- **Safe grounded facts:** A sample, mock-up, product data sheet, substrate test, method statement, batch/area record, acceptance criteria, and maintenance instruction prove different things.
-- **Limits:** Obtain exact product TDS/SDS, substrate criteria, mock-up agreement, environment, installer method, and warranty before promising appearance, adhesion, slip, chemical, or maintenance performance.
-
-## Evidence gates
-
-- **GATE-04:** Obtain exact constituent, batch, product/system, TDS/SDS, supplier, and installed-condition evidence.
-- **GATE-05:** Obtain the governing sampling/test/inspection method, laboratory scope, project criteria, and original traceable results.
-- **GATE-08:** Obtain condition survey, history, testing, mechanism assessment, product compatibility, repair design, mock-up, and monitored acceptance.
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/beton-precast` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/jasa/coring-beton` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/beton-precast/u-ditch` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/beton-precast/tiang-pancang` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/beton-precast/tiang-listrik` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/beton-precast/sheet-pile` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `CON-08-02` → `/artikel/trowel-finish-vs-polished-concrete.html` — Trowel Finish dan Polished Concrete: Hasil Mirip Mengilap, Proses Berbeda
-- `CON-08-03` → `/artikel/perbandingan-beton-dekoratif.html` — Stamped, Stained, dan Exposed Aggregate: Cara Membandingkan Beton Dekoratif
-- `CON-08-05` → `/artikel/masalah-permukaan-lantai-beton.html` — Noda, Debu Permukaan, dan Perubahan Warna pada Lantai Beton
-- `CON-08-06` → `/artikel/perawatan-beton-dekoratif.html` — Merawat Permukaan Beton Dekoratif Tanpa Merusak Sistem Finishing
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+*Kredit: aset lokal proyek.*
 
 ## Hasil akhir dan prasyarat
 
-- **Purpose:** Nyatakan hasil yang ingin dicapai, siapa yang berwenang, data awal, alat/dokumen, dan kondisi yang harus tersedia.
-- **Tie back to this article:** Keep the explanation specific to “Mock-Up Beton Dekoratif: Sampel Kecil untuk Mencegah Sengketa Besar”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Hasil yang dicari bukan “warna sudah cocok” saja. Hasil yang berguna adalah satu paket persetujuan: contoh area yang diberi identitas, deskripsi sistem yang diuji, kriteria tampilan yang disepakati, catatan kondisi pelaksanaan, dan pihak yang berwenang menerima atau menolak. Pemilik, perancang, kontraktor, pemasang sistem, dan pengawas perlu mengetahui sejak awal siapa yang memberi keputusan akhir; tanpa itu, sampel dapat berubah menjadi bukti yang diperdebatkan dari sudut pandang berbeda.
+
+Sebelum mock-up dibuat, kumpulkan setidaknya gambar atau lokasi representatif, data teknis produk (TDS) dan lembar keselamatan bila relevan (SDS), keadaan substrat yang akan diuji, metode kerja yang diusulkan, serta kebutuhan pemeliharaan setelah serah terima. Jika salah satu unsur belum tersedia, catat kekurangannya untuk review sebelum keputusan penerimaan dibuat. Jangan menutup celah itu dengan janji tentang daya lekat, ketahanan noda, ketahanan kimia, kekesatan, atau interval perawatan.
+
+Kawan Concrete.co.id, pertanyaan yang lebih tajam daripada “apakah sampelnya cantik?” adalah: “apakah sampel ini mewakili keputusan yang nanti harus dipertahankan di area utama?” Bila jawabannya belum, mock-up masih tahap eksplorasi, belum dasar penerimaan.
 
 ## Langkah 1 — tetapkan scope
 
-- **Purpose:** Jelaskan objek, batas pekerjaan, antarmuka, risiko, serta hal yang sengaja tidak dikerjakan.
-- **Tie back to this article:** Keep the explanation specific to “Mock-Up Beton Dekoratif: Sampel Kecil untuk Mencegah Sengketa Besar”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Tuliskan objek yang diuji dengan jelas. Sebutkan apakah mock-up menilai beton ekspos, lapisan finishing, pola, warna, sambungan, tepi, atau pertemuan dengan material lain. Nyatakan pula apa yang tidak diuji. Misalnya, sampel kecil mungkin membantu menyepakati karakter visual dan urutan kerja, tetapi tidak otomatis membuktikan hasil untuk semua pasokan beton, setiap kondisi cuaca, setiap area, atau seluruh siklus pakai bangunan.
+
+Batas ini penting karena campuran yang diusulkan, hasil uji coba, rekaman batch, pengujian beton segar, hasil benda uji, dan kondisi beton yang sudah terpasang adalah rantai bukti yang berbeda. Katalog [ISO untuk produksi dan kesesuaian beton](https://www.iso.org/committee/49906/x/catalogue/) serta [katalog BSN untuk beton dan produk beton](https://pesta.bsn.go.id/produk/by_ics/21?ics_no=91&key=) dapat membantu mengidentifikasi ranah dokumen, bukan menggantikan kriteria proyek atau hasil yang dapat ditelusuri.
+
+Tetapkan juga antarmuka pekerjaan: siapa menyiapkan alas, siapa memeriksa sebelum aplikasi, siapa menjaga sampel setelah dibuat, dan kapan pihak penerima melihatnya. Risiko paling umum bukan hanya beda selera, melainkan perubahan kondisi alas atau urutan pekerjaan yang tidak dicatat. Bila mock-up dibuat pada alas yang disiapkan khusus sementara area utama memiliki kondisi lain, nyatakan perbedaan itu dan minta penilaian kompeten sebelum menjadikannya acuan.
 
 ## Langkah 2 — kumpulkan dan cocokkan bukti
 
-- **Purpose:** Susun dokumen, observasi, data, produk, atau standar yang harus cocok dengan kasus.
-- **Tie back to this article:** Keep the explanation specific to “Mock-Up Beton Dekoratif: Sampel Kecil untuk Mencegah Sengketa Besar”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Gunakan satu lembar pencocokan sederhana agar keputusan tidak bergantung pada ingatan rapat. Kolomnya dapat memuat: item yang disetujui, dokumen atau observasi pendukung, tanggal, penanggung jawab, serta status terbuka. Untuk sistem dekoratif, cocokkan identitas produk dan pemasok, versi TDS/SDS, hasil pemeriksaan substrat yang benar-benar tersedia, metode yang dipakai pada sampel, kondisi saat pelaksanaan, dan foto/rekaman yang diberi lokasi serta tanggal.
+
+Jangan menyamakan produk dengan kinerja terpasang. Data produk dapat menjelaskan batas penggunaan menurut produsennya, sedangkan penerimaan pekerjaan tetap memerlukan kecocokan dengan substrat, metode pemasang, lingkungan, dan persyaratan proyek. Pemisahan antara asumsi desain umur layan, bukti material/produksi, rekaman konstruksi, dasar inspeksi, tindakan pemeliharaan, dan kinerja aktual juga selaras dengan ruang lingkup [ISO 16204](https://www.iso.org/standard/55862.html) dan [ISO 22040](https://www.iso.org/standard/72390.html).
+
+Teman Concrete.co.id, bukti yang perlu dikejar bukan yang paling banyak, melainkan yang bisa ditautkan ke keputusan. Jika tidak ada identitas batch, metode, atau kondisi pelaksanaan, hentikan penerimaan sampai rantai bukti dapat ditelusuri; jangan mengubah kesukaan visual menjadi klaim mutu sistem.
 
 ## Langkah 3 — jalankan urutan kerja
 
-- **Purpose:** Berikan urutan konseptual yang dapat diikuti tanpa berubah menjadi instruksi teknis berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Mock-Up Beton Dekoratif: Sampel Kecil untuk Mencegah Sengketa Besar”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Mulailah dengan rapat singkat yang mengunci tujuan mock-up dan cara keputusan dicatat. Setelah itu, pastikan area sampel dan kondisi alas yang dipilih sesuai dengan scope. Pemasang menjalankan metode yang diusulkan sambil merekam bahan/sistem yang dipakai, urutan umum, kondisi yang relevan, dan perubahan yang disetujui. Pihak penerima kemudian menilai sampel terhadap kriteria yang telah ditulis, bukan terhadap harapan baru yang muncul setelah pekerjaan selesai.
+
+Urutan ini sengaja bersifat konseptual. Ia tidak menentukan rasio campuran, durasi curing, cara aplikasi, atau parameter teknis tertentu karena semuanya memerlukan bahan, sistem, kondisi, dan ketentuan proyek yang spesifik. Untuk area yang akan menerima beban atau berhubungan dengan struktur eksisting, penyebab gejala, kondisi, batas survei, pengujian, dan konsekuensi keselamatan juga perlu dipisahkan; [ISO 16311-2](https://www.iso.org/standard/79786.html) membahas penilaian struktur beton eksisting, bukan pembenaran diagnosis dari foto atau sampel semata.
+
+Selama mock-up, catat keputusan perubahan sebagai perubahan, bukan koreksi diam-diam. Bila warna, pola, alat, bahan, atau kondisi alas berubah, tentukan apakah sampel harus diperbarui atau dibuat ulang. Dengan begitu, yang akhirnya disetujui adalah versi yang dapat diulangi secara terkendali, bukan gabungan dari beberapa percobaan.
 
 ## Hold point dan kondisi berhenti
 
-- **Purpose:** Nyatakan kapan pekerjaan tidak boleh diteruskan tanpa review, tes, atau persetujuan.
-- **Tie back to this article:** Keep the explanation specific to “Mock-Up Beton Dekoratif: Sampel Kecil untuk Mencegah Sengketa Besar”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Berhenti dan minta review sebelum melanjutkan ke area utama jika identitas produk atau dokumennya tidak cocok, kondisi substrat tidak diketahui, metode pemasang berbeda dari yang disetujui, atau kriteria penerimaan belum tertulis. Hold point juga diperlukan saat pihak yang berwenang belum melihat sampel dalam kondisi yang disepakati, atau ketika perubahan di lapangan membuat sampel tidak lagi representatif.
+
+Sobat Concrete.co.id, kondisi berhenti bukan tuduhan bahwa pekerjaan pasti gagal. Itu cara menjaga agar keputusan teknis dan komersial tidak diambil dari asumsi. Khususnya bila ada retak, keropos, rembesan, korosi, pengelupasan, atau indikasi lain pada beton, jangan memilih bahan perbaikan atau menyimpulkan penyebab hanya dari gejala. Penilaian yang memisahkan riwayat, survei, pengujian, hipotesis mekanisme, desain perbaikan, penerimaan, dan pemantauan diperlukan sesuai konteks [ISO 16311-1](https://www.iso.org/standard/86446.html).
 
 ## Verifikasi hasil dan handover
 
-- **Purpose:** Buat checklist penerimaan, rekaman, tindak lanjut, dan pemicu koreksi.
-- **Tie back to this article:** Keep the explanation specific to “Mock-Up Beton Dekoratif: Sampel Kecil untuk Mencegah Sengketa Besar”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Penerimaan mock-up sebaiknya ditutup dengan daftar cek singkat, bukan persetujuan lisan. Pastikan terdapat identitas area sampel; sistem dan dokumen versi yang digunakan; catatan kondisi dan perubahan; foto/rekaman; kriteria tampilan yang diterima; batas variasi yang masih dapat diterima; batas yang tidak diuji; serta instruksi pemeliharaan yang tersedia dari sistem terkait. Rekam juga keputusan: diterima, diterima dengan revisi, atau perlu mock-up ulang.
 
-## Objection or shortcut to address
+Handover belum berarti bahwa semua area akan otomatis sama dengan sampel. Ia berarti tim memiliki acuan bersama untuk memeriksa pelaksanaan berikutnya dan mengetahui kapan perlu eskalasi. Simpan persetujuan bersama catatan produksi atau area pekerjaan yang relevan; catatan tersebut membantu menelusuri perbedaan bila muncul pertanyaan kemudian. Jangan mengubah sampel menjadi jaminan umur layan atau interval pemeliharaan tanpa kondisi lingkungan, kriteria lengkap, dan review kompeten.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+## Jalan pintas yang sering menggagalkan keputusan
 
-## Required conclusion
+Jalan pintasnya adalah meminta pemasang membuat satu contoh kecil, memotret hasilnya, lalu menganggap semua keputusan sudah selesai. Pendekatan ini gagal ketika contoh hanya menunjukkan warna, sedangkan alas, produk, metode, kondisi kerja, dan cara perawatan belum disamakan. Saat area utama berbeda, setiap pihak dapat merasa dirinya mengikuti kesepakatan yang berbeda pula.
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+Alternatif yang lebih andal adalah memperlakukan mock-up sebagai titik pengendalian: tetapkan scope, cocokkan bukti, catat metode dan perubahan, lakukan penerimaan tertulis, lalu pertahankan jalur eskalasi bila kondisi lapangan bergeser. Bila pekerjaan juga bersinggungan dengan elemen pracetak, informasi umum tentang [produk beton pracetak](/beton-precast) dapat membantu memulai percakapan ruang lingkup, tetapi tidak menggantikan persetujuan sistem finishing proyek ini.
 
-## Draft completion checklist
+## Langkah berikutnya
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Sobat Concrete.co.id!` and uses friendly `Concrete.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Mock-up beton dekoratif mencegah sengketa besar karena ia mengubah selera dan asumsi menjadi keputusan yang terlihat, tercatat, dan dapat diperiksa sebelum pekerjaan meluas. Langkah berikutnya adalah membuat lembar persetujuan satu halaman yang memuat scope, dokumen produk, kondisi substrat, metode, kriteria penerimaan, pihak berwenang, serta daftar hal yang belum dibuktikan.
+
+Aturan operasionalnya sederhana: bila sampel tidak mewakili kondisi dan bukti yang akan dipakai pada area utama, jangan pakai sampel itu sebagai dasar janji kinerja. Minta review profesional/proyek yang kompeten, lengkapi bukti yang masih terbuka, lalu putuskan apakah mock-up diterima, direvisi, atau diulang.
