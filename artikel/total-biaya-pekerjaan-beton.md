@@ -2,7 +2,7 @@
 article_id: CON-10-02
 title: "Harga Beton per Meter Kubik Tidak Menceritakan Seluruh Biaya Pengecoran"
 slug: "total-biaya-pekerjaan-beton"
-description: "Compare offers, records, lifecycle consequences, and environmental claims without losing technical scope"
+description: "Bandingkan penawaran, catatan, dampak sepanjang masa pakai, dan klaim lingkungan tanpa mengabaikan ruang lingkup teknis."
 status: draft
 writing_contract_version: "native-id-v2"
 publication_date: "2026-07-07"

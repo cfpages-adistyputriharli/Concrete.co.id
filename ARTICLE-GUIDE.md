@@ -28,6 +28,7 @@ Do not load the portfolio ledger, OneDrive memory, another repository, the full 
 2. Preserve front matter exactly except:
    - change `status: outline` to `status: draft` after the article is fully expanded;
    - add `writing_contract_version: "native-id-v2"` immediately after `status: draft`;
+   - rewrite an inherited English `description` as a concise, natural Indonesian reader summary without changing the article's intent;
    - set `date_modified` only when the user supplies or authorizes a real modification date;
    - add original source URLs only when actually used.
 3. Replace instructional bullets under the detailed outline with finished Indonesian prose.
@@ -38,6 +39,16 @@ Do not load the portfolio ledger, OneDrive memory, another repository, the full 
 8. Preserve every limitation, professional-review condition, and stop-work boundary.
 9. Finish with a concrete next action or operating rule, not a generic summary.
 10. Run the completion checklist inside the file before stopping.
+
+## Required validation
+
+After drafting, run:
+
+```powershell
+python "$env:OneDrive\MD\skills\write-portfolio-articles\scripts\validate_article_draft.py" "artikel\[slug].md" --repo .
+```
+
+Replace `[slug]` with the assigned filename. If `$env:OneDrive` is unavailable, ask the coordinator for the canonical validator path; do not silently skip validation.
 
 ## Writing style
 
