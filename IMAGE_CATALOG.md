@@ -1,5 +1,5 @@
 <!-- BEGIN MANAGED IMAGE CATALOG -->
-# Image Catalog — Concrete.co.id
+# Image Catalog — concrete.co.id
 
 Status: pre-writing image plan generated from repository filenames/paths and source metadata; no image pixels were inspected or downloaded.
 Scope: article media planning only. No prose, HTML hydration, sitemap edit, deployment, or publication is authorized.
