@@ -1,5 +1,5 @@
 <!-- BEGIN MANAGED ARTICLE GUIDE -->
-# Article Guide — Concrete.co.id
+# Article Guide — concrete.co.id
 
 Status: repository-local instruction for expanding one prebuilt article outline at a time
 Public route contract: `/artikel/[slug].html`
