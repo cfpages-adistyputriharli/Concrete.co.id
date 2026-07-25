@@ -3,7 +3,7 @@ article_id: CON-03-06
 title: "Delivery Ticket Ready-Mix: Bagian yang Perlu Dicocokkan Sebelum Pengecoran"
 slug: "membaca-delivery-ticket-ready-mix"
 description: "Prepare an order, site, delivery sequence, and acceptance workflow"
-status: outline
+status: draft
 publication_date: "2026-02-10"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -24,37 +24,14 @@ sources:
   - "https://jdih.pu.go.id/detail-dokumen/PermenPUPR-nomor-10-tahun-2021-Pedoman-Sistem-Manajemen-Keselamatan-Konstruksi"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
 # Delivery Ticket Ready-Mix: Bagian yang Perlu Dicocokkan Sebelum Pengecoran
 
-## Assignment lock
+Halo, Sobat Concrete.co.id! Delivery ticket ready-mix bukan sekadar kertas pengantar truk. Sebelum beton dituang, ticket itu perlu dicocokkan dengan pesanan yang disetujui, elemen yang akan dicor, dan catatan penerimaan di lapangan. Bila salah satu identitas atau persyaratannya tidak selaras, hentikan keputusan penerimaan sampai pihak yang berwenang meninjau ketidaksesuaian tersebut.
 
-- **Writer task:** Expand this file into one complete article answering: “Delivery Ticket Ready-Mix: Bagian yang Perlu Dicocokkan Sebelum Pengecoran”
-- **Reader and situation:** Prepare an order, site, delivery sequence, and acceptance workflow
-- **Reader outcome:** Prepare an order, site, delivery sequence, and acceptance workflow
-- **Primary intent:** Checklist
-- **Reader community:** `Concrete.co.id`
-- **Primary friendly address:** `Sobat Concrete.co.id`
-- **Natural variants:** `Kawan Concrete.co.id` and `Teman Concrete.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Traceability fields; not final acceptance by itself
-- **Final public route:** `/artikel/membaca-delivery-ticket-ready-mix.html`
-- **Appointed CMS date:** `2026-02-10` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
-
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Sobat Concrete.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Delivery Ticket Ready-Mix: Bagian yang Perlu Dicocokkan Sebelum Pengecoran**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Sobat Concrete.co.id`, `Kawan Concrete.co.id`, or `Teman Concrete.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
+Jawaban singkatnya: cocokkan identitas pesanan dan batch, spesifikasi yang benar-benar diminta, waktu serta urutan pengiriman, dan orang yang menerima catatan itu. Ticket membantu menjaga jejak informasi dari pesanan sampai batch tiba, tetapi tidak sendirian membuktikan beton telah memenuhi penerimaan akhir. Spesifikasi beton, bukti pengambilan contoh, hasil uji, dan aturan penerimaan adalah tahapan yang berbeda. [ISO 22965-1](https://www.iso.org/standard/41260.html) menjelaskan bahwa persyaratan spesifikasi, produksi, dan pertukaran informasi adalah bagian yang terpisah; catatan standar [SNI 6880:2016](https://pesta.bsn.go.id/produk/detail/10771-sni68802016) juga perlu dibaca bersama dokumen proyek yang berlaku.
 
 
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-012`
@@ -65,139 +42,68 @@ sources:
 - **Selection basis:** filename/source metadata identifies `Beton Ready Mix K 500` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-012]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
-
-## Evidence packet
-
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
-
-### KR-02
-
-- **Original sources:** [ISO 22965-1:2007 concrete specification](https://www.iso.org/standard/41260.html), [SNI 6880:2016 structural concrete specification record](https://pesta.bsn.go.id/produk/detail/10771-sni68802016).
-- **Purpose for this article:** Ground specification, supplier information exchange, and the distinction between shorthand strength labels and a complete requirement.
-- **Safe grounded facts:** Application, constituent requirements, fresh and hardened performance, production route, information exchange, local conditions, and acceptance evidence are separate specification inputs.
-- **Limits:** Obtain the current full governing SNI/contract documents before quoting clauses, categories, tolerances, test frequencies, or acceptance criteria.
-
-### KR-06
-
-- **Original sources:** [SNI 4810:2018 field specimen record](https://pesta.bsn.go.id/produk/detail/13475-48102018), [ISO/IEC 17025:2017 laboratory competence](https://www.iso.org/standard/66912.html).
-- **Purpose for this article:** Ground sampling, specimen preparation/care, laboratory competence, report reading, and nonconformity articles.
-- **Safe grounded facts:** Concrete batch, sample, specimen, curing history, test method, test age, result, laboratory scope, acceptance rule, and final disposition must not be conflated.
-- **Limits:** Do not invent specimen shape conversion, frequency, acceptance limit, or disposition; obtain current full methods and project quality documents.
-
-### KR-08
-
-- **Original sources:** [ISO 22965-1:2007](https://www.iso.org/standard/41260.html), [ISO 22965-2 catalogue entry](https://www.iso.org/committee/49906/x/catalogue/).
-- **Purpose for this article:** Ground ordering, site readiness, delivery tickets, fresh observations, placement, and coordination.
-- **Safe grounded facts:** An order, batch record, delivery ticket, arrival observation, sample, specimen result, and placed element describe different stages.
-- **Limits:** Current supplier capability, travel time, allowable adjustment, pumpability, placement window, price, and availability require a dated quotation and project method.
-
-### KR-10
-
-- **Original sources:** [Permenaker No. 8 Tahun 2020](https://peraturan.bpk.go.id/Home/Details/163270/permenaker-no-8-tahun-2020), [Permenaker No. 11 Tahun 2026](https://peraturan.bpk.go.id/Details/351282/permenaker-no-11-tahun-2026), [Permen PUPR No. 10 Tahun 2021 SMKK](https://jdih.pu.go.id/detail-dokumen/PermenPUPR-nomor-10-tahun-2021-Pedoman-Sistem-Manajemen-Keselamatan-Konstruksi).
-- **Purpose for this article:** Ground lifting, equipment, site roles, inspection, and construction-safety governance.
-- **Safe grounded facts:** Equipment identity/configuration, inspection/testing, competent roles, load/unit data, ground/support, access, exclusion, weather, communication, rescue, and approved method are distinct controls.
-- **Limits:** Recheck the current official consolidated law immediately before publication; never turn an article into an equipment operating, lifting, traffic, or site safety plan.
-
-## Evidence gates
-
-- **GATE-02:** Recheck current Indonesian national/local law, permit, competence, inspection, and project applicability immediately before publication.
-- **GATE-04:** Obtain exact constituent, batch, product/system, TDS/SDS, supplier, and installed-condition evidence.
-- **GATE-06:** Obtain approved method statements, lift/transport/erection plans, site logistics, equipment data, competent roles, inspection records, and acceptance authority.
-- **GATE-07:** Obtain a task-specific K3 assessment, current legal consolidation, exposure/equipment evidence, exclusion and emergency controls, and competent approval.
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/ready-mix` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/ready-mix/k-500` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/ready-mix/k-450` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/ready-mix/k-425` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/ready-mix/k-400` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/ready-mix/k-375` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `CON-03-04` → `/artikel/memilih-metode-penempatan-beton.html` — Menuang Beton dengan Pompa atau Metode Lain: Apa yang Menentukan Pilihan?
-- `CON-03-05` → `/artikel/merencanakan-urutan-pengecoran.html` — Mengatur Urutan Pengecoran agar Pasokan, Tenaga, dan Bekisting Tidak Saling Menunggu
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+END MANAGED IMAGE PLAN -->
 
 ## Hasil akhir dan prasyarat
 
-- **Purpose:** Nyatakan hasil yang ingin dicapai, siapa yang berwenang, data awal, alat/dokumen, dan kondisi yang harus tersedia.
-- **Tie back to this article:** Keep the explanation specific to “Delivery Ticket Ready-Mix: Bagian yang Perlu Dicocokkan Sebelum Pengecoran”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Tujuannya bukan mencari format ticket yang tampak paling lengkap, melainkan memastikan batch yang hadir dapat ditautkan dengan pekerjaan yang tepat. Siapkan salinan pesanan atau dokumen persetujuan, gambar/penanda elemen yang akan dicor, delivery ticket, serta formulir penerimaan proyek bila ada. Tentukan sejak awal siapa yang boleh menyatakan “sesuai”, siapa yang mencatat observasi, dan siapa yang memutuskan bila ada selisih.
+
+Nama mutu singkat, misalnya saat pembaca menelusuri pilihan [ready-mix](/ready-mix) atau kelas [K-500](/ready-mix/k-500), belum cukup untuk menggantikan spesifikasi lengkap proyek. Persyaratan penggunaan, bahan penyusun, kinerja beton segar dan mengeras, serta bukti penerimaan dapat menjadi masukan yang berlainan dalam spesifikasi. Karena itu, jangan menyamakan label pesanan dengan keputusan bahwa elemen sudah boleh dicor.
+
+Kondisi awal juga penting: area penerimaan, akses, urutan truk, komunikasi dengan pengemudi dan pemasok, serta kesiapan pekerjaan harus mengikuti metode yang disetujui proyek. Hal-hal keselamatan dan pengendalian lokasi bukan isi ticket; ia harus tersedia sebagai pengendalian tersendiri. Pedoman SMKK pada [Permen PUPR Nomor 10 Tahun 2021](https://jdih.pu.go.id/detail-dokumen/PermenPUPR-nomor-10-tahun-2021-Pedoman-Sistem-Manajemen-Keselamatan-Konstruksi) dapat menjadi rujukan tata kelola, bukan pengganti penilaian risiko untuk lokasi Anda.
+
+![Ilustrasi Beton Ready Mix K 500](/wp-content/uploads/2024/04/Beton-Ready-Mix-K-500.jpg)
+
+_Aset lokal proyek; bukan dokumentasi proyek tertentu._
 
 ## Langkah 1 — tetapkan scope
 
-- **Purpose:** Jelaskan objek, batas pekerjaan, antarmuka, risiko, serta hal yang sengaja tidak dikerjakan.
-- **Tie back to this article:** Keep the explanation specific to “Delivery Ticket Ready-Mix: Bagian yang Perlu Dicocokkan Sebelum Pengecoran”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Batasi pemeriksaan ini pada keterlacakan: apakah ticket itu merujuk pada pesanan, batch, tujuan pengecoran, dan penerimaan yang sama. Jangan memperluasnya menjadi verifikasi desain struktur, pengaturan alat, atau perhitungan keselamatan lapangan. Bila ticket memuat istilah yang tidak dipahami, jangan menerka artinya dari kebiasaan proyek lain; cocokkan dengan dokumen pesanan dan minta klarifikasi pemasok atau pengawas yang berwenang.
+
+Kawan Concrete.co.id, pertanyaan praktisnya ialah: “Jika ticket ini dipisahkan dari truk dan elemen yang dicor, apakah tim masih dapat menunjukkan kaitannya dengan pesanan yang disetujui?” Bila jawabannya tidak, catatan itu belum cukup kuat sebagai jejak batch. Beri penanda untuk proyek, lokasi/elemen sesuai dokumen proyek, dan waktu pencatatan tanpa menambahkan data yang tidak tersedia.
+
+Scope ini sengaja tidak menetapkan batas waktu perjalanan, toleransi perubahan, kemampuan pompa, volume, atau harga. Semua itu memerlukan penawaran bertanggal, kemampuan pemasok, dan metode proyek yang benar-benar disetujui. [ISO 22965-2](https://www.iso.org/committee/49906/x/catalogue/) menunjukkan bahwa dokumen tentang pelaksanaan/produksi berada pada ranah tersendiri; jangan mengubah daftar periksa ini menjadi aturan operasional universal.
 
 ## Langkah 2 — kumpulkan dan cocokkan bukti
 
-- **Purpose:** Susun dokumen, observasi, data, produk, atau standar yang harus cocok dengan kasus.
-- **Tie back to this article:** Keep the explanation specific to “Delivery Ticket Ready-Mix: Bagian yang Perlu Dicocokkan Sebelum Pengecoran”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Mulailah dari dua kolom: “yang dipesan” dan “yang tertulis pada ticket”. Periksa identitas pelanggan/proyek, nomor pesanan bila dipakai proyek, identitas campuran atau spesifikasi yang dirujuk, identitas batch/ticket, tujuan pengiriman, serta informasi waktu yang memang dicatat pada dokumen tersebut. Tambahkan kolom ketiga untuk catatan penerimaan di lokasi: siapa yang memeriksa, kapan ticket diterima, dan selisih yang perlu diteruskan.
+
+Jangan membetulkan ticket dengan asumsi lisan. Jika nama proyek serupa tetapi nomor pesanan berbeda, atau tujuan pengecoran tidak dapat dipastikan, tandai sebagai ketidaksesuaian. Bukti yang lebih kuat adalah pembetulan atau konfirmasi yang dapat ditelusuri dari pihak yang berwenang. Untuk kebutuhan spesimen dan laporan uji, catatan [SNI 4810:2018](https://pesta.bsn.go.id/produk/detail/13475-48102018) membedakan kegiatan pengambilan/pembuatan/perawatan benda uji dari hasil uji itu sendiri. Artinya, ticket batch, sampel, benda uji, hasil laboratorium, dan keputusan akhir tidak boleh dilebur menjadi satu klaim.
+
+Jika proyek meminta pengujian, pisahkan rekamannya: batch mana yang diambil sampelnya, identitas sampel dan benda uji, riwayat perawatan yang relevan, metode serta umur pengujian, dan laporan laboratorium. Kompetensi laboratorium juga memiliki ruang lingkupnya sendiri dalam [ISO/IEC 17025](https://www.iso.org/standard/66912.html). Ticket dapat menjadi penghubung penting, tetapi bukan pengganti formulir sampling, laporan uji, atau aturan penerimaan proyek.
 
 ## Langkah 3 — jalankan urutan kerja
 
-- **Purpose:** Berikan urutan konseptual yang dapat diikuti tanpa berubah menjadi instruksi teknis berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Delivery Ticket Ready-Mix: Bagian yang Perlu Dicocokkan Sebelum Pengecoran”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Gunakan urutan sederhana berikut agar keputusan tidak mendahului bukti.
+
+1. Sebelum truk diposisikan untuk pekerjaan, buka pesanan yang disetujui dan tentukan elemen/area tujuan menurut dokumen proyek.
+2. Terima ticket sebagai catatan batch, lalu cocokkan setiap identitas utama dengan pesanan. Catat selisih apa adanya, termasuk bagian yang tidak dapat diverifikasi di lokasi.
+3. Pastikan pihak penerima memahami batas kewenangannya. Penerima dapat mencatat dan mengeskalasi; penerimaan teknis atau perubahan persyaratan hanya dilakukan menurut otorisasi proyek.
+4. Bila ada sampling atau pemeriksaan lain yang disyaratkan, hubungkan formulirnya ke batch yang benar dan simpan rekamannya bersama ticket.
+5. Arsipkan ticket, konfirmasi, serta keputusan tindak lanjut sehingga elemen yang dicor tidak kehilangan jejak dokumennya.
+
+Teman Concrete.co.id, urutan ini sengaja konseptual. Ia tidak mengajarkan pengoperasian kendaraan, pompa, lalu lintas proyek, atau prosedur pengecoran. Untuk bagian tersebut, gunakan metode kerja yang disetujui, data peralatan, penilaian K3 spesifik tugas, dan personel kompeten. Ketentuan ketenagakerjaan/peralatan perlu dicek kembali dalam konsolidasi hukum resmi yang berlaku, termasuk rekaman [Permenaker Nomor 8 Tahun 2020](https://peraturan.bpk.go.id/Home/Details/163270/permenaker-no-8-tahun-2020) dan [Permenaker Nomor 11 Tahun 2026](https://peraturan.bpk.go.id/Details/351282/permenaker-no-11-tahun-2026), sebelum dipakai sebagai dasar proyek.
 
 ## Hold point dan kondisi berhenti
 
-- **Purpose:** Nyatakan kapan pekerjaan tidak boleh diteruskan tanpa review, tes, atau persetujuan.
-- **Tie back to this article:** Keep the explanation specific to “Delivery Ticket Ready-Mix: Bagian yang Perlu Dicocokkan Sebelum Pengecoran”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Jadikan ini hold point: jangan lanjut atas dasar ticket saja bila identitas pesanan/batch tidak cocok, spesifikasi yang dirujuk tidak dapat dipastikan, tujuan pengecoran tidak jelas, atau pihak yang berwenang belum memberi keputusan atas selisih. Hentikan pula bila kesiapan lokasi atau pengendalian keselamatan yang dipersyaratkan metode proyek belum tersedia. Keputusan berhenti bukan tuduhan terhadap pemasok; itu cara mencegah catatan batch tersambung ke pekerjaan yang salah.
+
+[NEEDS PROJECT REVIEW: konfirmasi dokumen mutu yang berlaku, otorisasi penerimaan, metode kerja yang disetujui, penilaian K3 spesifik tugas, dan konsolidasi hukum Indonesia terkini sebelum ticket dipakai sebagai dasar keputusan proyek.]
+
+Jangan menetapkan sendiri batas penolakan berdasarkan angka, waktu, atau istilah yang tidak diberikan proyek. Jika pengawas meminta pengujian atau penilaian tambahan, rekam permintaan dan hasilnya pada jalur dokumen yang tepat. Ticket tetap disimpan sebagai bagian jejak, sedangkan keputusan akhir mengikuti kontrak, spesifikasi, dan otoritas penerimaan yang berlaku.
 
 ## Verifikasi hasil dan handover
 
-- **Purpose:** Buat checklist penerimaan, rekaman, tindak lanjut, dan pemicu koreksi.
-- **Tie back to this article:** Keep the explanation specific to “Delivery Ticket Ready-Mix: Bagian yang Perlu Dicocokkan Sebelum Pengecoran”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Sebelum administrasi ditutup, periksa bahwa ticket dapat ditemukan kembali bersama pesanan, catatan penerimaan, konfirmasi ketidaksesuaian bila ada, dan rekaman sampling/pengujian yang memang dipersyaratkan. Handover yang baik menyebutkan statusnya dengan jujur: sesuai secara administratif, menunggu klarifikasi, atau sudah dirujuk untuk keputusan penerimaan. Hindari menulis “lulus” hanya karena ticket telah ditandatangani.
 
-## Objection or shortcut to address
+Untuk proyek yang memakai beberapa mutu, pisahkan penandaan dan arsipnya agar batch tidak tertukar. Halaman pilihan seperti [ready-mix K-450](/ready-mix/k-450) dapat membantu pembaca memahami kategori produk, tetapi dokumen proyek tetap menentukan kecocokan untuk elemen tertentu. Simpan juga kontak atau nomor rujukan klarifikasi, sehingga tim berikutnya tidak perlu mengandalkan ingatan saat membaca ticket beberapa hari kemudian.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+## Mengapa label mutu saja tidak cukup
 
-## Required conclusion
+Jalan pintas yang sering menggoda adalah melihat label mutu, lalu langsung menganggap semuanya benar. Cara ini bisa gagal karena label hanya salah satu bagian dari informasi. Batch yang benar untuk mutu tertentu belum tentu ditujukan ke pesanan atau elemen yang sedang disiapkan; sebaliknya, hasil uji nanti juga tidak dapat otomatis dianggap mewakili batch tanpa jejak sampling dan identitas yang jelas.
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+Alternatif yang lebih andal adalah membiasakan “cocokkan sebelum tanda tangan”: pesanan, ticket, tujuan cor, dan catatan penerimaan dibuka pada saat yang sama. Sobat Concrete.co.id tidak perlu menambah angka atau prosedur buatan untuk melakukannya; cukup catat apa yang ada, tandai yang tidak cocok, lalu minta keputusan dari otoritas proyek.
 
-## Draft completion checklist
+## Aturan sebelum memulai pengecoran
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Sobat Concrete.co.id!` and uses friendly `Concrete.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Baca delivery ticket ready-mix sebagai alat pencocokan jejak, bukan sertifikat penerimaan akhir. Langkah berikutnya adalah menyiapkan satu lembar pesanan yang disetujui, jalur eskalasi selisih, dan tempat arsip yang menghubungkannya dengan ticket serta catatan lapangan. Aturan operasinya sederhana: bila identitas atau kewenangan belum jelas, jangan menggantinya dengan asumsi—tahan keputusan sampai bukti dan persetujuan yang tepat tersedia.
