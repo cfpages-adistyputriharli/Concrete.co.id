@@ -3,7 +3,7 @@ article_id: CON-06-03
 title: "Beton Bocor: Jalur Air Tidak Selalu Sama dengan Lokasi Noda"
 slug: "investigasi-kebocoran-beton"
 description: "Triage symptoms and gather evidence before repair or escalation"
-status: outline
+status: draft
 publication_date: "2026-04-09"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -29,9 +29,9 @@ Jawaban itu dapat berubah setelah kondisi struktur, riwayat hujan atau pemakaian
 
 ![Ilustrasi Jasa Waterproofing Beton 9](/wp-content/uploads/2024/05/Jasa-Waterproofing-Beton-9.jpg)
 
-_Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu._
+_Aset lokal proyek; bukan dokumentasi proyek tertentu._
 
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-014`
@@ -42,7 +42,7 @@ _Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu._
 - **Selection basis:** filename/source metadata identifies `Jasa Waterproofing Beton 9` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-014]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
 ## Mulai dari gejala, bukan tebakan penyebab
 
